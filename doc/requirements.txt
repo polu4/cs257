@@ -1,0 +1,7 @@
+# TEAM
+Luke Poley, Thomas Lund
+
+# DATA
+We are pulling data from the BGG website. A sample for the first 100 entries can be found here 
+https://drive.google.com/file/d/14C_TetyglXR6NQW4t_vEWCLklVusjWgm/view?usp=sharing
+
