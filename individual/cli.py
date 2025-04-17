@@ -1,5 +1,12 @@
 '''
-Search for games with a certain max number of players, returns list sorted by average user rating
+cli.py 
+Thomas Lund
+16-Apr-2025
+
+NAME: cli.py - command-line interface
+SYNOPSIS: cli.py {filepath to csv} {max number of players: int}
+DESCRIPTOPM: Prints a list of games with the inputted number of max players, sorted
+by average user rating
 '''
 import argparse as arg
 import pandas as pd
