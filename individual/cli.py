@@ -5,7 +5,8 @@ Thomas Lund
 
 NAME: cli.py - command-line interface
 SYNOPSIS: cli.py {filepath to csv} {collumn to sort by: int}
-DESCRIPTOPM: Prints the array sorted by the given collumn
+DESCRIPTOPM: Prints the sorted collumn, then the entire array sorted by the given collumn. With no libraries this makes quite a mess of a print
+data format: headers = ['author','pageNumber'] dat = [['kant','keats','pound'],['550','475','80']] etc
 '''
 import argparse as arg
 import csv
@@ -13,7 +14,7 @@ import csv
 def getParse():
     parser = arg.ArgumentParser(description="Sort the list of games by a given data header")
     parser.add_argument('dataLocation',metavar="file path",help="Where the data is as a csv file")
-    parser.add_argument('colNum',metavar="Collumn number",help="which collumn to sort by, as an int")
+    parser.add_argument('colNum',metavar="Collumn number",help="which collumn to sort by, as an int",type=int)
     args = parser.parse_args()
     return args
 
@@ -56,7 +57,7 @@ def sortBy(dat,collumn):
 def main():
     args = getParse()
     dat = grabDat(args.dataLocation)
-    dat = sortBy(dat,args.colNum)
+    dat = sortBy(dat,int(args.colNum))
     print(args.colNum)
     print(dat)
 
