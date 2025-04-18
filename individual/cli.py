@@ -43,7 +43,7 @@ def grabDat(fileLoc):
 def sortBy(dat,collumn):
     dat[0],dat[collumn] = dat[collumn],dat[0]
     try:
-        dat[0] = [str(i) for i in dat[0]]
+        dat[0] = [int(i) for i in dat[0]]
     except:
         pass
     combined = list(zip(*dat))
@@ -56,7 +56,7 @@ def sortBy(dat,collumn):
 def main():
     args = getParse()
     dat = grabDat(args.dataLocation)
-    dat = sortBy(dat,7)
+    dat = sortBy(dat,args.colNum)
     print(args.colNum)
     print(dat)
 
