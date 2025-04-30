@@ -31,4 +31,41 @@ dat,headers = grabDat(filePath)
 with open(outPath,'w',encoding='utf-8') as f:
     writer = csv.writer(f)
     writer.writerows(dat)
-        
+
+
+i=1
+idsNames = {}
+for j in range(len(dat[i])):
+    if(dat[i][j] not in idsNames):
+        idsNames[dat[i][j]] = {'id':len(idsNames)}
+newIds = []
+for k in idsNames.keys():
+    newIds.append([k,idsNames[k]['id']])
+with open(f"/Users/thoma/cs257/cs257/data/{headers[i]}.csv",'w',encoding='utf-8') as f:
+    writer = csv.writer(f)
+    writer.writerows(newIds)
+
+
+for i in range(len(headers)):
+    if(i==1):
+        continue
+    ids = {}
+    idsToNames = []
+    for j in range(len(dat[i])):
+        if(dat[i][j] not in ids):
+            ids[dat[i][j]] = {'id':len(ids)}
+        idsToNames.append([ids[dat[i][j]],idsNames[i][j]])
+        print(idsToNames)
+    newIds = []
+    for k in ids.keys():
+        newIds.append([k,ids[k]['id']])
+    with open(f"/Users/thoma/cs257/cs257/data/{headers[i]}.csv",'w',encoding='utf-8') as f:
+        writer = csv.writer(f)
+        writer.writerows(newIds)
+
+
+
+
+
+
+

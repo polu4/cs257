@@ -11,4 +11,87 @@ playTime int,
 minPlayTime int,
 maxPlayTime int,
 age int,
-rating int);
+rating int,
+average float,
+bayesAvg float,
+rank int,
+rankWg float,
+numComments int,
+numWeights int,
+averageWeight float,
+stddev float,
+median float,
+owned int,
+trading int,
+wanting int,
+wishing int,
+userRating text,
+img text,
+category text,
+mechanic text,
+comment text,
+1player text,
+2player text,
+3player text,
+4player text,
+5player text,
+6player text,
+7player text,
+8player text,
+9player text,
+10player text,
+11player text,
+12player text,
+13player text,
+14player text,
+15player text,
+16player text,
+17player text,
+18player text,
+19player text,
+20player text,
+dsc text,
+exp text,
+basegame int,
+basegameName text
+reimplementName text
+reimplemented text
+reimplementedName text,
+contains text,
+containsName text,
+iscontained text
+integration text,
+integrationName text,
+accessories text,
+accessoriesName text,
+numPlays int,
+price float,
+userWeight float,
+wishPriority float,
+expansions text,
+domain text,
+family text,
+agePoll float,
+nameOthers text,
+comments text,
+thumbsGl text,
+soldGl text,
+priceGl text,
+currencyGl text,
+userGl text,
+tags text,
+tagsUser text
+);
+
+CREATE TABLE names(
+id int NOT NULL,
+name text);
+
+CREATE TABLE designers(
+id int NOT NULL,
+designers text);
+
+CREATE TABLE artists(
+id int NOT NULL,
+artists text);
+
