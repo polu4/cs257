@@ -28,7 +28,7 @@ def grabDat(fileLoc):
 
 dat,headers = grabDat(filePath)
 
-with open(outPath,'w',encoding='utf-8') as f:
+with open(outPath,'w',encoding='utf-8',newline='') as f:
     writer = csv.writer(f)
     writer.writerows(dat)
 
@@ -68,8 +68,4 @@ for i in range(len(headers))[:25]:
         writer.writerows(idsToNames)
     
 
-
-
-
-print(newIds)
 
