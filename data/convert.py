@@ -8,21 +8,14 @@ def grabDat(fileLoc):
     headers = []
     with open(fileLoc, newline='',encoding='utf8') as data:
         reader = csv.reader(data)
-        isFirst = 1
-        isSecond = 0
-        for row in reader:
-            if isSecond:
-                for i in row:
-                    out.append([i])
-                isSecond=0
-            if isFirst:
-                for i in row:
-                    headers.append(i)
-                isFirst = 0
-                isSecond = 1
-            else:
-                for ind,i in enumerate(row):
-                    out[ind].append(i)
+        out = []
+        for i in reader:
+            subl = []
+            for j in i:
+                if j == '':
+                    j = 0
+                subl.append(j)
+            out.append(subl)
     return out,headers
 
 
@@ -67,3 +60,11 @@ for i in range(len(headers))[:25]:
         writer = csv.writer(g)
         writer.writerows(idsToNames)
     
+
+dater = []
+with open('C:/Users/thoma/cs257/cs257/data/daterTab.txt','r') as f:
+    for i in f:
+        dater.append(f.readline())
+
+for i in range(len(headers)):
+    print(headers[i])
