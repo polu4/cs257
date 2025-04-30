@@ -30,26 +30,26 @@ img text,
 category text,
 mechanic text,
 comment text,
-1player text,
-2player text,
-3player text,
-4player text,
-5player text,
-6player text,
-7player text,
-8player text,
-9player text,
-10player text,
-11player text,
-12player text,
-13player text,
-14player text,
-15player text,
-16player text,
-17player text,
-18player text,
-19player text,
-20player text,
+player1 text,
+player2 text,
+player3 text,
+player4 text,
+player5 text,
+player6 text,
+player7 text,
+player8 text,
+player9 text,
+player10 text,
+player11 text,
+player12 text,
+player13 text,
+player14 text,
+player15 text,
+player16 text,
+player17 text,
+player18 text,
+player19 text,
+player20 text,
 dsc text,
 exp text,
 basegame int,
@@ -84,14 +84,17 @@ tagsUser text
 );
 
 CREATE TABLE names(
-id int NOT NULL,
-name text);
+name text,
+id int NOT NULL
+);
 
 CREATE TABLE designers(
-id int NOT NULL,
-designers text);
+designers text,
+id int NOT NULL
+);
 
 CREATE TABLE artists(
-id int NOT NULL,
-artists text);
+artists text,
+id int NOT NULL
+);
 

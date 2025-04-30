@@ -41,7 +41,7 @@ for j in range(len(dat[i])):
 newIds = []
 for k in idsNames.keys():
     newIds.append([k,idsNames[k]['id']])
-with open(f"/Users/thoma/cs257/cs257/data/{headers[i]}.csv",'w',encoding='utf-8') as f:
+with open(f"/Users/thoma/cs257/cs257/data/{headers[i]}.csv",'w',encoding='utf-8',newline='') as f:
     writer = csv.writer(f)
     writer.writerows(newIds)
 
@@ -60,10 +60,10 @@ for i in range(len(headers))[:25]:
     newIds = []
     for k in ids.keys():
         newIds.append([k,ids[k]['id']])
-    with open(f"/Users/thoma/cs257/cs257/data/{headers[i]}.csv",'w',encoding='utf-8') as f:
+    with open(f"/Users/thoma/cs257/cs257/data/{headers[i]}.csv",'w',encoding='utf-8',newline='') as f:
         writer = csv.writer(f)
         writer.writerows(newIds)
-    with open(f'/Users/thoma/cs257/cs257/data/{headers[i]}_to_name.csv','w',encoding='utf-8') as g:
+    with open(f'/Users/thoma/cs257/cs257/data/{headers[i]}_to_name.csv','w',encoding='utf-8',newline='') as g:
         writer = csv.writer(g)
         writer.writerows(idsToNames)
     
@@ -71,5 +71,5 @@ for i in range(len(headers))[:25]:
 
 
 
-
+print(newIds)
 
