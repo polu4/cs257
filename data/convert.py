@@ -46,7 +46,9 @@ with open(f"/Users/thoma/cs257/cs257/data/{headers[i]}.csv",'w',encoding='utf-8'
     writer.writerows(newIds)
 
 
-for i in range(len(headers)):
+
+
+for i in range(len(headers))[:25]:
     if(i==1):
         continue
     ids = {}
@@ -54,15 +56,17 @@ for i in range(len(headers)):
     for j in range(len(dat[i])):
         if(dat[i][j] not in ids):
             ids[dat[i][j]] = {'id':len(ids)}
-        idsToNames.append([ids[dat[i][j]],idsNames[i][j]])
-        print(idsToNames)
+        idsToNames.append([ids[dat[i][j]]['id'],idsNames[dat[1][j]]['id']])
     newIds = []
     for k in ids.keys():
         newIds.append([k,ids[k]['id']])
     with open(f"/Users/thoma/cs257/cs257/data/{headers[i]}.csv",'w',encoding='utf-8') as f:
         writer = csv.writer(f)
         writer.writerows(newIds)
-
+    with open(f'/Users/thoma/cs257/cs257/data/{headers[i]}_to_name.csv','w',encoding='utf-8') as g:
+        writer = csv.writer(g)
+        writer.writerows(idsToNames)
+    
 
 
 
