@@ -1,0 +1,928 @@
+"Hand Management, Open Drafting, Solo / Solitaire Game, Tile Placement",0
+"Chaining, Hand Management, Income, Loans, Market, Network and Route Building, Tags, Tech Trees / Tech Tracks, Turn Order: Stat-Based, Variable Set-up",1
+"Dice Rolling, End Game Bonuses, Grid Movement, Set Collection, Solo / Solitaire Game, Team-Based Game, Tile Placement",2
+"Action Points, Cooperative Game, Hand Management, Legacy Game, Multi-Use Cards, Point to Point Movement, Scenario / Mission / Campaign Game, Set Collection, Tags, Trading, Variable Player Powers",3
+"Action Queue, End Game Bonuses, Grid Coverage, Hand Management, Hexagon Grid, Income, Increase Value of Unchosen Resources, Open Drafting, Set Collection, Solo / Solitaire Game, Tags, Tile Placement, Variable Player Powers, Variable Set-up",4
+"Action Queue, Action Retrieval, Campaign / Battle Card Driven, Card Play Conflict Resolution, Communication Limits, Cooperative Game, Critical Hits and Failures, Deck Construction, Grid Movement, Hand Management, Hexagon Grid, Legacy Game, Line of Sight, Modular Board, Multi-Use Cards, Narrative Choice / Paragraph, Once-Per-Game Abilities, Role Playing, Scenario / Mission / Campaign Game, Simultaneous Action Selection, Solo / Solitaire Game, Storytelling, Tags, Variable Player Powers",5
+"Action Drafting, Area-Impulse, Dice Rolling, Follow, Grid Movement, Hexagon Grid, Increase Value of Unchosen Resources, King of the Hill, Modular Board, Movement Points, Race, Tech Trees / Tech Tracks, Trading, Variable Phase Order, Variable Player Powers, Variable Set-up, Voting",6
+"Card Play Conflict Resolution, Deck, Bag, and Pool Building, Delayed Purchase, Force Commitment, Increase Value of Unchosen Resources, Multi-Use Cards, Open Drafting, Race, Solo / Solitaire Game, Tags, Take That, Turn Order: Progressive, Variable Player Powers, Worker Placement",7
+"Closed Drafting, Contracts, End Game Bonuses, Hand Management, Hexagon Grid, Income, Set Collection, Solo / Solitaire Game, Tags, Take That, Tech Trees / Tech Tracks, Tile Placement, Turn Order: Progressive, Variable Player Powers, Variable Set-up, Victory Points as a Resource",8
+"Action Drafting, Area Majority / Influence, Area Movement, Campaign / Battle Card Driven, Card Play Conflict Resolution, Dice Rolling, Events, Hand Management, Movement Points, Team-Based Game, Variable Player Powers, Variable Set-up",9
+"Area Majority / Influence, Area Movement, Card Play Conflict Resolution, Contracts, Delayed Purchase, Dice Rolling, Die Icon Resolution, Events, Hand Management, Hidden Movement, Income, Once-Per-Game Abilities, Tags, Take That, Team-Based Game, Variable Player Powers, Variable Set-up, Worker Placement, Different Worker Types",10
+"Area Majority / Influence, Cooperative Game, Hand Management, Modular Board, Set Collection, Simultaneous Action Selection, Variable Player Powers",11
+"Action Retrieval, Area Majority / Influence, Automatic Resource Growth, Campaign / Battle Card Driven, Cooperative Game, Deck, Bag, and Pool Building, Hand Management, Modular Board, Simultaneous Action Selection, Solo / Solitaire Game, Tags, Variable Player Powers, Variable Set-up",12
+"Action Queue, Action Retrieval, Campaign / Battle Card Driven, Communication Limits, Cooperative Game, Critical Hits and Failures, Deck Construction, Grid Movement, Hand Management, Hexagon Grid, Legacy Game, Line of Sight, Multi-Use Cards, Once-Per-Game Abilities, Player Elimination, Role Playing, Scenario / Mission / Campaign Game, Simultaneous Action Selection, Solo / Solitaire Game, Variable Player Powers",13
+"Automatic Resource Growth, Card Play Conflict Resolution, Deck, Bag, and Pool Building, Delayed Purchase, Force Commitment, Increase Value of Unchosen Resources, Multi-Use Cards, Open Drafting, Solo / Solitaire Game, Team-Based Game, Turn Order: Progressive, Variable Player Powers, Worker Placement",14
+"End Game Bonuses, Hexagon Grid, Income, Modular Board, Network and Route Building, Solo / Solitaire Game, Tags, Tech Trees / Tech Tracks, Turn Order: Pass Order, Variable Player Powers, Variable Set-up, Victory Points as a Resource",15
+"Cooperative Game, Hand Management, Modular Board, Open Drafting, Simultaneous Action Selection, Variable Player Powers",16
+"Card Play Conflict Resolution, Deck, Bag, and Pool Building, Open Drafting, Race, Turn Order: Progressive, Variable Player Powers, Worker Placement",17
+"Action / Event, Advantage Token, Area Majority / Influence, Campaign / Battle Card Driven, Dice Rolling, Events, Hand Management, Simulation, Simultaneous Action Selection, Sudden Death Ending, Tug of War, Variable Set-up",18
+"Action Points, Auction / Bidding, Auction: Dutch, Events, Income, Open Drafting, Player Elimination, Tags, Take That",19
+"Delayed Purchase, Dice Rolling, End Game Bonuses, Grid Coverage, Hexagon Grid, Open Drafting, Pattern Building, Tile Placement, Track Movement, Turn Order: Stat-Based, Variable Set-up",20
+"Advantage Token, Race, Variable Player Powers, Worker Placement",21
+"Deck, Bag, and Pool Building, Hand Management, Ownership, Set Collection, Track Movement, Variable Set-up",22
+"Area Majority / Influence, Card Play Conflict Resolution, Contracts, End Game Bonuses, Force Commitment, Grid Movement, Hexagon Grid, King of the Hill, Movement Points, Narrative Choice / Paragraph, Solo / Solitaire Game, Take That, Tech Trees / Tech Tracks, Variable Player Powers, Variable Set-up, Victory Points as a Resource, Zone of Control",23
+"Alliances, Area Majority / Influence, Area-Impulse, Dice Rolling, Grid Movement, Hexagon Grid, Hot Potato, Income, Modular Board, Passed Action Token, Tech Trees / Tech Tracks, Variable Player Powers",24
+"Dice Rolling, End Game Bonuses, Grid Coverage, Hexagon Grid, Pattern Building, Set Collection, Solo / Solitaire Game, Team-Based Game, Tile Placement, Turn Order: Stat-Based, Variable Set-up",25
+"End Game Bonuses, Income, Layering, Melding and Splaying, Modular Board, Multi-Use Cards, Once-Per-Game Abilities, Open Drafting, Score-and-Reset Game, Set Collection, Sudden Death Ending, Tags, Tech Trees / Tech Tracks, Track Movement, Tug of War, Variable Player Powers, Variable Set-up, Victory Points as a Resource",26
+"Hand Management, Income, Loans, Market, Network and Route Building, Tech Trees / Tech Tracks, Turn Order: Stat-Based",27
+"Card Play Conflict Resolution, Cooperative Game, Deck, Bag, and Pool Building, Dice Rolling, Grid Movement, Hand Management, Modular Board, Open Drafting, Role Playing, Solo / Solitaire Game, Tile Placement, Variable Player Powers",28
+"Deck, Bag, and Pool Building, Open Drafting, Solo / Solitaire Game, Variable Player Powers, Worker Placement",29
+"Area Majority / Influence, Campaign / Battle Card Driven, Cooperative Game, Scenario / Mission / Campaign Game, Solo / Solitaire Game, Variable Player Powers",30
+"Campaign / Battle Card Driven, Cooperative Game, Dice Rolling, Hand Management, Hidden Roles, Interrupts, Modular Board, Player Elimination, Semi-Cooperative Game, Solo / Solitaire Game, Team-Based Game, Traitor Game, Variable Player Powers",31
+"Campaign / Battle Card Driven, Communication Limits, Cooperative Game, Deck Construction, Deck, Bag, and Pool Building, Grid Movement, Hand Management, Hexagon Grid, Legacy Game, Modular Board, Multi-Use Cards, Narrative Choice / Paragraph, Once-Per-Game Abilities, Scenario / Mission / Campaign Game, Simultaneous Action Selection, Solo / Solitaire Game, Variable Player Powers",32
+"Deck, Bag, and Pool Building, Delayed Purchase, End Game Bonuses, Events, Legacy Game, Map Addition, Movement Points, Narrative Choice / Paragraph, Once-Per-Game Abilities, Open Drafting, Pick-up and Deliver, Player Elimination, Point to Point Movement, Push Your Luck, Scenario / Mission / Campaign Game, Set Collection, Variable Player Powers, Variable Set-up",33
+"Automatic Resource Growth, Dice Rolling, Grid Coverage, Income, Push Your Luck, Solo / Solitaire Game, Tile Placement, Turn Order: Pass Order, Worker Placement",34
+"Action Retrieval, Advantage Token, Auction: Dutch, Deck, Bag, and Pool Building, End Game Bonuses, Hand Management, Hidden Victory Points, Investment, Movement Points, Network and Route Building, Open Drafting, Point to Point Movement, Set Collection, Variable Set-up",35
+"Dice Rolling, End Game Bonuses, Hand Management, Open Drafting, Set Collection",36
+"Cooperative Game, Dice Rolling, Hand Management, Open Drafting, Set Collection, Solo / Solitaire Game",37
+"Deck, Bag, and Pool Building, Hand Management, Ownership, Set Collection, Solo / Solitaire Game, Tags, Track Movement, Variable Set-up",38
+"Action Points, Area Movement, Communication Limits, Cooperative Game, Deck Construction, Events, Hand Management, Map Deformation, Modular Board, Player Elimination, Push Your Luck, Role Playing, Scenario / Mission / Campaign Game, Solo / Solitaire Game, Stat Check Resolution, Variable Player Powers",39
+"Contracts, Deck, Bag, and Pool Building, Multi-Use Cards, Once-Per-Game Abilities, Open Drafting, Resource to Move, Solo / Solitaire Game, Turn Order: Progressive, Worker Placement",40
+"Action Points, Action Queue, Action Retrieval, Area Majority / Influence, Area Movement, Dice Rolling, Hand Management, Multi-Use Cards, Negotiation, Point to Point Movement, Race, Sudden Death Ending, Take That, Variable Player Powers, Variable Set-up",41
+"End Game Bonuses, Hand Management, Hexagon Grid, Income, Open Drafting, Set Collection, Solo / Solitaire Game, Tile Placement, Variable Player Powers, Variable Set-up",42
+"Cooperative Game, Dice Rolling, Die Icon Resolution, Grid Movement, Narrative Choice / Paragraph, Resource to Move, Role Playing, Scenario / Mission / Campaign Game, Solo / Solitaire Game, Square Grid, Stat Check Resolution, Tech Trees / Tech Tracks, Turn Order: Role Order, Variable Player Powers",43
+"Chaining, End Game Bonuses, Hexagon Grid, Income, Increase Value of Unchosen Resources, Network and Route Building, Tech Trees / Tech Tracks, Turn Order: Pass Order, Variable Player Powers, Variable Set-up, Victory Points as a Resource",44
+"Action Queue, Dice Rolling, End Game Bonuses, Hand Management, Once-Per-Game Abilities, Open Drafting, Set Collection, Solo / Solitaire Game, Turn Order: Progressive",45
+"Closed Drafting, Hand Management, Tile Placement, Variable Player Powers",46
+"Contracts, Deck, Bag, and Pool Building, End Game Bonuses, Events, Kill Steal, Point to Point Movement, Simultaneous Action Selection, Tech Trees / Tech Tracks, Turn Order: Progressive, Variable Set-up, Worker Placement, Different Worker Types",47
+"Card Play Conflict Resolution, Cooperative Game, Deck, Bag, and Pool Building, Dice Rolling, Grid Movement, Hand Management, Hexagon Grid, Modular Board, Multi-Use Cards, Open Drafting, Role Playing, Solo / Solitaire Game, Tags, Turn Order: Claim Action, Variable Player Powers",48
+"Action Retrieval, Contracts, End Game Bonuses, Income, Network and Route Building, Ownership, Solo / Solitaire Game, Turn Order: Stat-Based, Variable Player Powers, Variable Set-up, Worker Placement",49
+"Communication Limits, Cooperative Game, Dice Rolling, Scenario / Mission / Campaign Game, Simulation, Turn Order: Progressive, Variable Player Powers, Variable Set-up, Worker Placement with Dice Workers",50
+"Deck, Bag, and Pool Building, Delayed Purchase, Hand Management, Open Drafting",51
+"Communication Limits, Cooperative Game, Deduction, Hand Management, Scenario / Mission / Campaign Game, Trick-taking",52
+"Contracts, End Game Bonuses, Hand Management, Income, Open Drafting, Ownership, Set Collection, Solo / Solitaire Game, Tags, Variable Set-up, Worker Placement",53
+"Contracts, Hand Management, Race, Solo / Solitaire Game, Turn Order: Auction, Victory Points as a Resource, Worker Placement, Worker Placement, Different Worker Types",54
+"Area Majority / Influence, Hand Management, Income, Layering, Market, Modular Board, Multi-Use Cards, Once-Per-Game Abilities, Open Drafting, Point to Point Movement, Race, Relative Movement, Set Collection, Sudden Death Ending, Tags, Take That, Tech Trees / Tech Tracks, Variable Player Powers, Variable Set-up",55
+"Commodity Speculation, Open Drafting, Set Collection, Worker Placement",56
+"Catch the Leader, Deck, Bag, and Pool Building, Hand Management, Programmed Movement, Push Your Luck, Race, Simulation, Simultaneous Action Selection, Solo / Solitaire Game, Track Movement, Variable Set-up",57
+"Card Play Conflict Resolution, Cooperative Game, Deck Construction, Hand Management, Interrupts, Scenario / Mission / Campaign Game, Solo / Solitaire Game, Turn Order: Progressive, Variable Player Powers, Variable Set-up",58
+"Area Majority / Influence, Solo / Solitaire Game",59
+"Flicking, Team-Based Game",60
+"Delayed Purchase, Income, Market, Modular Board, Open Drafting, Simultaneous Action Selection, Victory Points as a Resource",61
+"Action Points, Hand Management, Variable Phase Order, Worker Placement",62
+"Action Points, Area Majority / Influence, Area Movement, Auction: Dutch, Bribery, Hand Management, Increase Value of Unchosen Resources, Negotiation, Open Drafting, Score-and-Reset Game, Simulation, Solo / Solitaire Game, Tags, Take That",63
+"End Game Bonuses, Hand Management, Income, Network and Route Building, Solo / Solitaire Game, Turn Order: Claim Action, Turn Order: Stat-Based, Worker Placement",64
+"Action / Event, Hand Management, Roles with Asymmetric Information, Simulation, Variable Player Powers, Voting, Worker Placement, Different Worker Types",65
+"Action Drafting, End Game Bonuses, Follow, Hidden Victory Points, Increase Value of Unchosen Resources, Turn Order: Progressive, Variable Phase Order",66
+"End Game Bonuses, Hexagon Grid, Open Drafting, Pattern Building, Solo / Solitaire Game, Tile Placement, Variable Set-up, Victory Points as a Resource",67
+"Action Points, Area Movement, Cooperative Game, Dice Rolling, Role Playing, Scenario / Mission / Campaign Game, Solo / Solitaire Game, Variable Player Powers",68
+"Action Points, Cooperative Game, Hand Management, Legacy Game, Point to Point Movement, Scenario / Mission / Campaign Game, Set Collection, Tags, Trading, Variable Player Powers",69
+"Area Majority / Influence, Area Movement, Cooperative Game, Dice Rolling, Hand Management, Race, Solo / Solitaire Game, Variable Player Powers",70
+"Automatic Resource Growth, Increase Value of Unchosen Resources, Solo / Solitaire Game, Tile Placement, Turn Order: Claim Action, Worker Placement",71
+"Contracts, Dice Rolling, Die Icon Resolution, End Game Bonuses, Events, Map Reduction, Open Drafting, Set Collection, Solo / Solitaire Game, Turn Order: Claim Action, Variable Player Powers, Variable Set-up, Worker Placement, Worker Placement, Different Worker Types",72
+"Area Majority / Influence, Area Movement, Dice Rolling, Hand Management, Team-Based Game",73
+"Contracts, Delayed Purchase, End Game Bonuses, Hexagon Grid, Income, Movement Points, Moving Multiple Units, Set Collection, Solo / Solitaire Game, Tech Trees / Tech Tracks, Tile Placement, Variable Phase Order, Worker Placement",74
+"Cooperative Game, Deck, Bag, and Pool Building, Dice Rolling, Hand Management, Solo / Solitaire Game",75
+"Action Points, Area Majority / Influence, Area Movement, Card Play Conflict Resolution, Closed Drafting, Hand Management, Map Reduction, Memory, Open Drafting, Simultaneous Action Selection, Take That, Turn Order: Progressive",76
+"Automatic Resource Growth, Closed Drafting, Enclosure, Increase Value of Unchosen Resources, Solo / Solitaire Game, Turn Order: Claim Action, Worker Placement",77
+"Action Points, Card Play Conflict Resolution, Cooperative Game, Deck, Bag, and Pool Building, Dice Rolling, Hand Management, Hexagon Grid, Legacy Game, Modular Board, Pattern Recognition, Push Your Luck, Role Playing, Scenario / Mission / Campaign Game, Storytelling, Variable Player Powers",78
+"Action Queue, Area Majority / Influence, Dice Rolling, Hand Management, King of the Hill, Point to Point Movement, Variable Player Powers",79
+"Action Points, Cooperative Game, Events, Hand Management, Narrative Choice / Paragraph, Push Your Luck, Scenario / Mission / Campaign Game, Solo / Solitaire Game, Storytelling",80
+"Area Majority / Influence, Hand Management, Multi-Use Cards, Open Drafting, Set Collection, Solo / Solitaire Game, Tile Placement",81
+"Action Points, Cooperative Game, Hand Management, Legacy Game, Pick-up and Deliver, Point to Point Movement, Scenario / Mission / Campaign Game, Set Collection, Tags, Trading, Variable Player Powers",82
+"Contracts, End Game Bonuses, Hexagon Grid, Income, Modular Board, Network and Route Building, Turn Order: Pass Order, Variable Player Powers, Variable Set-up, Victory Points as a Resource",83
+"Action Retrieval, Deck, Bag, and Pool Building, Hand Management, Open Drafting, Solo / Solitaire Game",84
+"Action Points, Cooperative Game, Hand Management, Hidden Movement, Point to Point Movement, Secret Unit Deployment, Set Collection, Tags, Team-Based Game, Trading, Variable Player Powers",85
+"Dice Rolling, Income, Pattern Building, Solo / Solitaire Game, Tile Placement, Worker Placement",86
+"Action Drafting, Contracts, Dice Rolling, End Game Bonuses, Hand Management, Set Collection, Turn Order: Progressive, Variable Set-up",87
+"Area Movement, Cooperative Game, Dice Rolling, Hand Management, Map Addition, Modular Board, Role Playing, Scenario / Mission / Campaign Game, Solo / Solitaire Game, Stat Check Resolution, Traitor Game, Variable Player Powers",88
+"Bias, End Game Bonuses, Track Movement, Turn Order: Claim Action, Worker Placement",89
+"Auction / Bidding, Auction: Turn Order Until Pass, Catch the Leader, Income, Market, Network and Route Building, Turn Order: Stat-Based, Variable Set-up",90
+"Area Majority / Influence, End Game Bonuses, Income, Multi-Use Cards, Resource to Move, Solo / Solitaire Game, Turn Order: Progressive, Variable Set-up",91
+"Catch the Leader, Deck, Bag, and Pool Building, Delayed Purchase, Dice Rolling, Die Icon Resolution, Events, Neighbor Scope, Open Drafting, Push Your Luck, Score-and-Reset Game, Simultaneous Action Selection, Track Movement, Variable Set-up",92
+"Commodity Speculation, Contracts, Hexagon Grid, Income, Market, Modular Board, Network and Route Building, Solo / Solitaire Game, Turn Order: Pass Order, Variable Player Powers",93
+"Automatic Resource Growth, End Game Bonuses, Increase Value of Unchosen Resources, Loans, Ownership, Solo / Solitaire Game, Worker Placement",94
+"Contracts, End Game Bonuses, Events, Hand Management, Income, Movement Points, Multi-Use Cards, Narrative Choice / Paragraph, Point to Point Movement, Scenario / Mission / Campaign Game, Set Collection, Solo / Solitaire Game, Stock Holding, Tech Trees / Tech Tracks, Track Movement, Variable Set-up",95
+"End Game Bonuses, Market, Open Drafting, Solo / Solitaire Game, Worker Placement, Worker Placement, Different Worker Types",96
+"Area Majority / Influence, Commodity Speculation, Contracts, Investment, Open Drafting, Point to Point Movement, Resource to Move, Set Collection, Solo / Solitaire Game, Victory Points as a Resource, Worker Placement, Worker Placement, Different Worker Types",97
+"Deck, Bag, and Pool Building, Delayed Purchase, End Game Bonuses, Map Addition, Map Deformation, Modular Board, Movement Points, Open Drafting, Player Elimination, Point to Point Movement, Push Your Luck, Tile Placement, Variable Set-up",98
+"Dice Rolling, Die Icon Resolution, Grid Movement, Line of Sight, Modular Board, Role Playing, Scenario / Mission / Campaign Game, Solo / Solitaire Game, Square Grid, Team-Based Game, Variable Player Powers",99
+"Action Points, Deck Construction, Hand Management, Race, Secret Unit Deployment, Take That, Variable Player Powers",100
+"Action Queue, Bias, Cooperative Game, Dice Rolling, Modular Board, Open Drafting, Programmed Movement, Role Playing, Slide / Push, Variable Player Powers",101
+"Enclosure, Hand Management, Worker Placement, Advantage Token, Automatic Resource Growth, Closed Drafting, Increase Value of Unchosen Resources, Solo / Solitaire Game, Team-Based Game, Turn Order: Claim Action, Variable Player Powers",102
+"Communication Limits, Cooperative Game, Hand Management, Scenario / Mission / Campaign Game, Trick-taking",103
+"Cooperative Game, Critical Hits and Failures, Dice Rolling, Events, Grid Movement, Narrative Choice / Paragraph, Paper-and-Pencil, Pattern Building, Role Playing, Scenario / Mission / Campaign Game, Solo / Solitaire Game, Square Grid, Storytelling, Tech Trees / Tech Tracks",104
+"Open Drafting, Set Collection",105
+"Follow, Hand Management, Multi-Use Cards, Simultaneous Action Selection, Tags, Variable Phase Order",106
+"End Game Bonuses, Grid Coverage, Open Drafting, Pattern Building, Set Collection, Square Grid, Tile Placement, Turn Order: Claim Action",107
+"Auction / Bidding, Constrained Bidding, End Game Bonuses, Hidden Victory Points, Mancala, Modular Board, Set Collection, Square Grid, Take That, Turn Order: Auction, Variable Player Powers, Variable Set-up, Victory Points as a Resource",108
+"Action Points, Area Majority / Influence, End Game Bonuses, Network and Route Building, Ownership, Take That, Tech Trees / Tech Tracks",109
+"Chaining, Hexagon Grid, Open Drafting, Pattern Building, Set Collection, Solo / Solitaire Game, Tile Placement, Variable Player Powers",110
+"Action Drafting, Dice Rolling, Multi-Use Cards, Open Drafting, Solo / Solitaire Game, Variable Set-up, Worker Placement, Worker Placement with Dice Workers",111
+"Action Points, Deck, Bag, and Pool Building, Delayed Purchase, End Game Bonuses, Movement Points, Open Drafting, Player Elimination, Point to Point Movement, Push Your Luck, Variable Set-up",112
+"Hand Management, Simultaneous Action Selection, Variable Phase Order, Variable Player Powers",113
+"Connections, Contracts, End Game Bonuses, Hand Management, Legacy Game, Network and Route Building, Open Drafting, Push Your Luck, Set Collection",114
+"Dice Rolling, Grid Movement, Hexagon Grid, Hot Potato, Map Addition, Modular Board, Player Elimination, Tile Placement, Variable Phase Order, Variable Player Powers",115
+"Automatic Resource Growth, Highest-Lowest Scoring, Income, Set Collection, Solo / Solitaire Game, Turn Order: Claim Action, Turn Order: Progressive, Worker Placement",116
+"Deck, Bag, and Pool Building, Hexagon Grid, Map Addition, Network and Route Building, Open Drafting, Scenario / Mission / Campaign Game, Tech Trees / Tech Tracks, Variable Player Powers",117
+"Chit-Pull System, Cooperative Game, Deck, Bag, and Pool Building, Delayed Purchase, Hand Management, Open Drafting, Solo / Solitaire Game, Variable Phase Order, Variable Player Powers, Variable Set-up",118
+"Contracts, Ownership, Pick-up and Deliver, Point to Point Movement, Set Collection, Solo / Solitaire Game, Turn Order: Claim Action, Variable Set-up, Worker Placement, Worker Placement, Different Worker Types",119
+"Contracts, Hidden Roles, Increase Value of Unchosen Resources, Ownership, Set Collection, Take That, Turn Order: Claim Action, Worker Placement",120
+"Action Drafting, Area Majority / Influence, Area Movement, Auction / Bidding, Hand Management, Interrupts, Memory, Open Drafting, Selection Order Bid, Simultaneous Action Selection, Take That, Turn Order: Auction",121
+"Dice Rolling, End Game Bonuses, Hand Management, Open Drafting, Push Your Luck, Set Collection, Solo / Solitaire Game",122
+"Area Movement, End Game Bonuses, Events, Grid Coverage, Layering, Ownership, Rondel, Score-and-Reset Game, Set Collection, Solo / Solitaire Game, Square Grid, Tile Placement, Track Movement, Variable Set-up, Victory Points as a Resource, Worker Placement with Dice Workers",123
+"Deck, Bag, and Pool Building, Hand Management, Ownership, Set Collection, Solo / Solitaire Game, Track Movement, Variable Set-up",124
+"Hand Management, Ladder Climbing, Score-and-Reset Game",125
+"Area Majority / Influence, Contracts, End Game Bonuses, Events, Income, Point to Point Movement, Tech Trees / Tech Tracks, Worker Placement",126
+"Action Retrieval, Advantage Token, Auction: Dutch, Communication Limits, Deck, Bag, and Pool Building, Hand Management, Investment, Movement Points, Network and Route Building, Open Drafting, Point to Point Movement, Set Collection, Team-Based Game, Variable Set-up",127
+"Action Points, Auction / Bidding, Auction: Dutch, Hand Management, Open Drafting",128
+"Betting and Bluffing, Deduction, Hidden Roles, Negotiation, Prisoner's Dilemma, Rock-Paper-Scissors, Roles with Asymmetric Information, Team-Based Game, Variable Player Powers, Voting",129
+"Action Drafting, Action Queue, Area Majority / Influence, End Game Bonuses, Grid Movement, Hexagon Grid, Map Addition, Take That, Tile Placement, Turn Order: Claim Action, Variable Player Powers, Worker Placement",130
+"Action Points, Deduction, End Game Bonuses, Paper-and-Pencil, Rondel, Solo / Solitaire Game, Turn Order: Time Track",131
+"Closed Drafting, End Game Bonuses, Hand Management, Melding and Splaying, Multi-Use Cards, Neighbor Scope, Once-Per-Game Abilities, Score-and-Reset Game, Set Collection, Simultaneous Action Selection, Tags, Tech Trees / Tech Tracks, Variable Player Powers, Variable Set-up",132
+"Action Queue, Area Movement, Cooperative Game, Dice Rolling, Die Icon Resolution, Events, Hexagon Grid, Map Addition, Movement Points, Narrative Choice / Paragraph, Scenario / Mission / Campaign Game, Solo / Solitaire Game, Tile Placement, Turn Order: Progressive, Variable Player Powers, Worker Placement",133
+"Contracts, Dice Rolling, End Game Bonuses, Point to Point Movement, Resource to Move, Turn Order: Claim Action, Variable Player Powers, Variable Set-up, Worker Placement with Dice Workers",134
+"Dice Rolling, Hand Management, Pick-up and Deliver, Push Your Luck, Solo / Solitaire Game, Variable Player Powers, Variable Set-up",135
+"Hand Management, Network and Route Building, Open Drafting, Set Collection",136
+"Communication Limits, Paper-and-Pencil, Targeted Clues, Team-Based Game",137
+"Contracts, Open Drafting, Race, Set Collection",138
+"Action Drafting, Area Majority / Influence, Area Movement, Campaign / Battle Card Driven, Closed Drafting, Hand Management, Hexagon Grid, Interrupts, King of the Hill, Map Addition, Modular Board, Take That, Variable Set-up",139
+"Action Points, Action Queue, Catch the Leader, Dice Rolling, Simultaneous Action Selection, Tile Placement, Turn Order: Stat-Based, Worker Placement, Worker Placement, Different Worker Types",140
+"Area-Impulse, Command Cards, Cooperative Game, Events, Grid Movement, Hand Management, Hexagon Grid, Modular Board, Solo / Solitaire Game, Variable Player Powers",141
+"Area Movement, Dice Rolling, Hand Management, Hidden Roles, Once-Per-Game Abilities, Role Playing, Semi-Cooperative Game, Team-Based Game, Traitor Game, Variable Player Powers, Variable Set-up, Voting",142
+"Cooperative Game, Deck, Bag, and Pool Building, Dice Rolling, Grid Movement, Hand Management, Modular Board, Role Playing, Variable Phase Order, Variable Player Powers",143
+"Action Retrieval, Area Movement, Connections, End Game Bonuses, Follow, Grid Movement, Income, Movement Points, Network and Route Building, Resource to Move, Solo / Solitaire Game, Square Grid, Tech Trees / Tech Tracks, Turn Order: Progressive, Variable Phase Order, Worker Placement, Different Worker Types",144
+"Area Movement, Contracts, End Game Bonuses, Events, Kill Steal, Loans, Open Drafting, Solo / Solitaire Game, Static Capture, Tags, Take That, Track Movement, Variable Player Powers, Variable Set-up, Worker Placement",145
+"Cooperative Game, Dice Rolling, Point to Point Movement, Role Playing, Storytelling, Variable Player Powers",146
+"Area Movement, Campaign / Battle Card Driven, Cooperative Game, Deck, Bag, and Pool Building, Dice Rolling, Hand Management, Map Addition, Modular Board, Narrative Choice / Paragraph, Role Playing, Scenario / Mission / Campaign Game, Solo / Solitaire Game, Storytelling, Variable Player Powers",147
+"Deck, Bag, and Pool Building, Delayed Purchase, Grid Movement, Hand Management, Hexagon Grid, Modular Board, Multi-Use Cards, Open Drafting, Race, Variable Set-up",148
+"Area-Impulse, Dice Rolling, Hexagon Grid, Modular Board, Tile Placement, Trading, Variable Player Powers, Voting",149
+"Action Retrieval, Dice Rolling, Hand Management, Modular Board, Solo / Solitaire Game, Variable Player Powers",150
+"Auction / Bidding, Auction: Fixed Placement, Auction: Multiple Lot, Constrained Bidding, End Game Bonuses, Hexagon Grid, Modular Board, Network and Route Building, Ownership, Selection Order Bid, Set Collection, Tile Placement, Turn Order: Auction, Variable Set-up, Worker Placement, Worker Placement, Different Worker Types",151
+"Contracts, Dice Rolling, Hand Management, Worker Placement, Worker Placement, Different Worker Types",152
+"Area Majority / Influence, Chaining, Connections, Force Commitment, Hand Management, Hidden Victory Points, Highest-Lowest Scoring, Income, Set Collection, Square Grid, Take That, Tile Placement",153
+"Deck, Bag, and Pool Building, Delayed Purchase, Hand Management, Open Drafting, Variable Set-up",154
+"Action Queue, Ownership, Turn Order: Claim Action, Turn Order: Pass Order, Variable Set-up, Worker Placement",155
+"Area Majority / Influence, Area Movement, Campaign / Battle Card Driven, Dice Rolling, Die Icon Resolution, Hand Management, Resource to Move, Take That, Trick-taking, Turn Order: Claim Action, Variable Player Powers",156
+"Auction / Bidding, Auction: Once Around, Closed Economy Auction, Constrained Bidding, Hidden Victory Points, Push Your Luck, Set Collection",157
+"Area Majority / Influence, Dice Rolling, End Game Bonuses, Events, Hidden Victory Points, Income, Ownership, Set Collection, Slide / Push, Solo / Solitaire Game, Turn Order: Progressive, Variable Set-up, Worker Placement with Dice Workers, Worker Placement, Different Worker Types",158
+"Contracts, Dice Rolling, End Game Bonuses, Open Drafting, Turn Order: Claim Action, Variable Set-up, Worker Placement, Worker Placement with Dice Workers",159
+"Action Points, Cooperative Game, Dice Rolling, Point to Point Movement, Resource to Move, Role Playing, Solo / Solitaire Game, Stat Check Resolution, Variable Player Powers",160
+"Campaign / Battle Card Driven, Cooperative Game, Dice Rolling, Hidden Roles, Interrupts, Modular Board, Player Elimination, Semi-Cooperative Game, Solo / Solitaire Game, Traitor Game, Variable Player Powers",161
+"Action Queue, Area Majority / Influence, Deck, Bag, and Pool Building, Hand Management, Investment, Open Drafting, Simultaneous Action Selection, Stock Holding, Turn Order: Claim Action, Variable Player Powers, Victory Points as a Resource, Worker Placement",162
+"Action Points, Area Movement, Campaign / Battle Card Driven, Cooperative Game, Deck, Bag, and Pool Building, Map Addition, Modular Board, Role Playing, Scenario / Mission / Campaign Game, Solo / Solitaire Game, Stat Check Resolution, Variable Player Powers",163
+"Hand Management, Increase Value of Unchosen Resources, Open Drafting, Set Collection, Tile Placement, Variable Player Powers, Worker Placement",164
+"Grid Coverage, Income, Open Drafting, Rondel, Square Grid, Tile Placement, Turn Order: Stat-Based, Turn Order: Time Track, Victory Points as a Resource",165
+"Action Points, Area-Impulse, Dice Rolling, Follow, Grid Movement, Hexagon Grid, Increase Value of Unchosen Resources, Modular Board, Player Elimination, Tech Trees / Tech Tracks, Tile Placement, Trading, Variable Phase Order, Variable Player Powers, Voting",166
+"Auction / Bidding, Catch the Leader, Connections, Dice Rolling, Hexagon Grid, Loans, Network and Route Building, Pick-up and Deliver, Player Elimination, Scenario / Mission / Campaign Game, Selection Order Bid, Solo / Solitaire Game, Tile Placement, Turn Order: Auction, Victory Points as a Resource",167
+"Closed Drafting, Hand Management, Set Collection, Simultaneous Action Selection, Variable Player Powers",168
+"Deck, Bag, and Pool Building, Delayed Purchase, Hand Management, Open Drafting, Take That, Variable Set-up",169
+"Area Movement, Hand Management, Mancala, Open Drafting, Set Collection",170
+"End Game Bonuses, Events, Hand Management, Modular Board, Open Drafting, Set Collection, Solo / Solitaire Game, Variable Player Powers, Variable Set-up, Worker Placement",171
+"End Game Bonuses, Tech Trees / Tech Tracks, Turn Order: Claim Action, Worker Placement",172
+"Cooperative Game, Deck, Bag, and Pool Building, Hand Management, Open Drafting, Variable Phase Order, Variable Player Powers",173
+"Action Drafting, Area Majority / Influence, Area-Impulse, Dice Rolling, Follow, Grid Movement, Hexagon Grid, Modular Board, Once-Per-Game Abilities, Trading, Turn Order: Claim Action, Variable Phase Order, Variable Player Powers, Voting",174
+"Area Majority / Influence, Deck, Bag, and Pool Building, Dice Rolling, Open Drafting, Push Your Luck, Rondel, Variable Player Powers",175
+"Action Drafting, Alliances, Area Majority / Influence, Area Movement, Auction: Sealed Bid, Betting and Bluffing, Closed Drafting, End Game Bonuses, Follow, Force Commitment, Negotiation, Set Collection, Simultaneous Action Selection, Take That, Variable Phase Order, Variable Player Powers, Variable Set-up",176
+"End Game Bonuses, Hand Management, Once-Per-Game Abilities, Open Drafting, Solo / Solitaire Game, Track Movement, Turn Order: Progressive",177
+"Area Movement, Cooperative Game, Hand Management, Map Addition, Modular Board, Narrative Choice / Paragraph, Scenario / Mission / Campaign Game, Solo / Solitaire Game, Storytelling, Variable Player Powers",178
+"Area Majority / Influence, Variable Phase Order, Worker Placement",179
+"Card Play Conflict Resolution, Deck, Bag, and Pool Building, Force Commitment, Open Drafting, Race, Solo / Solitaire Game, Turn Order: Progressive, Worker Placement",180
+"Contracts, End Game Bonuses, Grid Movement, Modular Board, Network and Route Building, Set Collection, Variable Set-up, Worker Placement, Worker Placement, Different Worker Types",181
+"Action Points, Cooperative Game, Hand Management, Network and Route Building, Point to Point Movement, Set Collection, Solo / Solitaire Game, Trading, Variable Player Powers",182
+"Deck, Bag, and Pool Building, Delayed Purchase, Modular Board, Open Drafting, Player Elimination, Point to Point Movement, Push Your Luck",183
+"Area Majority / Influence, Area Movement, Card Play Conflict Resolution, Deck, Bag, and Pool Building, Dice Rolling, Hand Management, Modular Board, Order Counters, Variable Player Powers",184
+"Cooperative Game, Dice Rolling, Narrative Choice / Paragraph, Open Drafting, Scenario / Mission / Campaign Game, Solo / Solitaire Game, Storytelling, Variable Player Powers",185
+"Communication Limits, Deduction, Memory, Push Your Luck, Race, Team-Based Game",186
+"Communication Limits, Cooperative Game, Deduction, Paper-and-Pencil, Score-and-Reset Game",187
+"Dice Rolling, Set Collection, Variable Player Powers, Worker Placement",188
+"Contracts, End Game Bonuses, Events, Modular Board, Solo / Solitaire Game, Track Movement, Turn Order: Claim Action, Variable Set-up, Worker Placement",189
+"Connections, Dice Rolling, Race, Tile Placement, Track Movement, Worker Placement, Worker Placement with Dice Workers",190
+"Action Retrieval, Contracts, Deck, Bag, and Pool Building, Dice Rolling, Follow, Simultaneous Action Selection, Variable Phase Order, Variable Player Powers, Worker Placement with Dice Workers",191
+"Action Points, Chaining, Contracts, Cooperative Game, Events, Hand Management, Multi-Use Cards, Point to Point Movement, Set Collection, Simulation, Tags, Trading, Variable Player Powers, Variable Set-up",192
+"Hand Management, Paper-and-Pencil, Solo / Solitaire Game, Tech Trees / Tech Tracks",193
+"Action Retrieval, Contracts, End Game Bonuses, Hand Management, Income, Market, Network and Route Building, Solo / Solitaire Game, Tech Trees / Tech Tracks, Variable Player Powers",194
+"End Game Bonuses, Modular Board, Open Drafting, Set Collection, Square Grid, Turn Order: Progressive, Worker Placement",195
+"Network and Route Building, Turn Order: Pass Order, Variable Player Powers",196
+"Area Majority / Influence, Connections, Deck, Bag, and Pool Building, Delayed Purchase, Open Drafting, Take That, Variable Set-up, Zone of Control",197
+"Bingo, Enclosure, End Game Bonuses, Grid Coverage, Paper-and-Pencil, Pattern Building, Simultaneous Action Selection, Solo / Solitaire Game, Square Grid, Variable Set-up",198
+"Deck, Bag, and Pool Building, Delayed Purchase, Hand Management, Income, Open Drafting, Player Elimination, Tags, Take That, Variable Set-up",199
+"Betting and Bluffing, Closed Drafting, Deck Construction, Hand Management, Income, Interrupts, Player Elimination, Tags, Take That",200
+"Hand Management, Income, Multi-Use Cards, Open Drafting, Race, Score-and-Reset Game, Take That, Turn Order: Pass Order, Variable Player Powers",201
+"Connections, End Game Bonuses, Hand Management, Network and Route Building, Open Drafting, Set Collection",202
+"Closed Drafting, Grid Coverage, Hidden Victory Points, Income, Open Drafting, Pattern Building, Set Collection, Solo / Solitaire Game, Square Grid, Tile Placement, Turn Order: Stat-Based",203
+"Action Drafting, Action Queue, Constrained Bidding, Deduction, End Game Bonuses, Events, Hand Management, Open Drafting, Turn Order: Progressive, Worker Placement",204
+"Action / Event, Campaign / Battle Card Driven, Connections, Hand Management, Once-Per-Game Abilities, Take That, Tug of War",205
+"Closed Drafting, End Game Bonuses, Hand Management, Income, Set Collection, Simultaneous Action Selection, Solo / Solitaire Game, Variable Player Powers",206
+"Connections, Contracts, End Game Bonuses, Hand Management, Network and Route Building, Open Drafting, Push Your Luck, Set Collection",207
+"Cooperative Game, Deck, Bag, and Pool Building, Dice Rolling, Die Icon Resolution, Minimap Resolution, Role Playing, Solo / Solitaire Game, Stat Check Resolution, Tech Trees / Tech Tracks, Turn Order: Role Order, Variable Player Powers",208
+"Deck, Bag, and Pool Building, Dice Rolling, Hand Management, Modular Board, Open Drafting, Scenario / Mission / Campaign Game, Simulation",209
+"Area Majority / Influence, Tile Placement",210
+"End Game Bonuses, Events, Grid Coverage, Grid Movement, Hidden Victory Points, Map Addition, Neighbor Scope, Network and Route Building, Open Drafting, Pattern Building, Rondel, Simultaneous Action Selection, Solo / Solitaire Game, Square Grid, Sudden Death Ending, Tags, Tech Trees / Tech Tracks, Tile Placement, Turn Order: Progressive, Variable Player Powers",211
+"Cooperative Game, Deck Construction, Events, Hand Management, Player Elimination, Scenario / Mission / Campaign Game, Solo / Solitaire Game, Variable Set-up",212
+"Action Points, Area Movement, Communication Limits, Cooperative Game, Deck Construction, Deck, Bag, and Pool Building, Events, Hand Management, Map Deformation, Modular Board, Role Playing, Scenario / Mission / Campaign Game, Solo / Solitaire Game, Stat Check Resolution, Variable Player Powers",213
+"Contracts, Dice Rolling, End Game Bonuses, Set Collection, Turn Order: Progressive, Worker Placement",214
+"Action Drafting, Area Majority / Influence, Enclosure, End Game Bonuses, Hexagon Grid, Income, Three Dimensional Movement, Tile Placement, Track Movement, Variable Set-up",215
+"Action Points, Area Majority / Influence, Area Movement, Card Play Conflict Resolution, Hand Management, Open Drafting, Tech Trees / Tech Tracks",216
+"Area Majority / Influence, Deck, Bag, and Pool Building, Delayed Purchase, Grid Movement, Hand Management, Hexagon Grid, Team-Based Game, Turn Order: Claim Action, Variable Player Powers",217
+"Cooperative Game, Deduction, Narrative Choice / Paragraph, Solo / Solitaire Game, Storytelling",218
+"End Game Bonuses, Follow, Hand Management, Income, Set Collection, Simultaneous Action Selection, Solo / Solitaire Game, Tags, Tech Trees / Tech Tracks, Variable Phase Order, Variable Player Powers, Variable Set-up",219
+"Area Majority / Influence, Open Drafting, Point to Point Movement, Set Collection, Tech Trees / Tech Tracks",220
+"Contracts, Dice Rolling, Grid Movement, Mancala, Modular Board, Network and Route Building, Pick-up and Deliver, Race, Variable Set-up, Worker Placement",221
+"Cooperative Game, Deck, Bag, and Pool Building, Delayed Purchase, Events, Hidden Roles, Open Drafting, Player Elimination, Solo / Solitaire Game, Team-Based Game, Traitor Game, Variable Player Powers",222
+"Area Majority / Influence, Deck, Bag, and Pool Building, End Game Bonuses, Hand Management, King of the Hill, Modular Board, Rondel, Set Collection, Solo / Solitaire Game, Variable Player Powers",223
+"Commodity Speculation, Grid Movement, Market, Set Collection, Tile Placement, Turn Order: Time Track",224
+"Contracts, Dice Rolling, Point to Point Movement, Resource to Move, Variable Player Powers, Worker Placement, Worker Placement with Dice Workers",225
+"Action Points, Card Play Conflict Resolution, Hand Management, Player Elimination, Point to Point Movement, Team-Based Game, Variable Player Powers",226
+"Closed Drafting, Hand Management, Set Collection, Simultaneous Action Selection, Team-Based Game, Variable Player Powers",227
+"Action Queue, Critical Hits and Failures, Dice Rolling, Line of Sight, Movement Template, Player Elimination, Simulation, Simultaneous Action Selection, Variable Player Powers",228
+"Dice Rolling, Highest-Lowest Scoring, Paper-and-Pencil, Re-rolling and Locking, Solo / Solitaire Game",229
+"Cooperative Game, Deck, Bag, and Pool Building",230
+"Action Points, Dice Rolling, Grid Movement, Map Addition, Modular Board, Pick-up and Deliver, Race, Roll / Spin and Move, Tile Placement, Variable Player Powers",231
+"Action Points, Action Queue, Hand Management, Multi-Use Cards, Take That, Variable Player Powers",232
+"Deck, Bag, and Pool Building, Push Your Luck",233
+"Hand Management, Hidden Victory Points, Market, Open Drafting, Race, Score-and-Reset Game, Set Collection",234
+"Deck, Bag, and Pool Building, Hand Management, Point to Point Movement",235
+"Bingo, Contracts, End Game Bonuses, Multi-Use Cards, Open Drafting, Paper-and-Pencil, Pattern Building, Simultaneous Action Selection, Solo / Solitaire Game",236
+"Contracts, End Game Bonuses, Follow, Hand Management, Pattern Building, Solo / Solitaire Game, Tags, Team-Based Game, Tile Placement, Variable Set-up, Victory Points as a Resource",237
+"Deck, Bag, and Pool Building, Hand Management, Open Drafting, Point to Point Movement, Variable Player Powers",238
+"Bingo, Narrative Choice / Paragraph, Paper-and-Pencil, Pattern Building, Race, Scenario / Mission / Campaign Game, Simultaneous Action Selection, Solo / Solitaire Game",239
+"Dice Rolling, Die Icon Resolution, Modular Board, Narrative Choice / Paragraph, Pick-up and Deliver, Point to Point Movement, Race, Solo / Solitaire Game, Take That, Trading, Variable Player Powers",240
+"Alliances, Area Majority / Influence, Area Movement, Auction / Bidding, Bribery, Card Play Conflict Resolution, Force Commitment, Map Deformation, Negotiation, Predictive Bid, Roles with Asymmetric Information, Take That, Variable Player Powers",241
+"Action Points, Area Majority / Influence, Area Movement, Dice Rolling, Events, Hand Management, Role Playing, Take That, Variable Player Powers",242
+"Action Points, Area Majority / Influence, Area Movement, Campaign / Battle Card Driven, Dice Rolling, Events, Hand Management",243
+"Action Points, Cooperative Game, Dice Rolling, Events, Grid Movement, Narrative Choice / Paragraph, Push Your Luck, Role Playing, Scenario / Mission / Campaign Game, Simulation, Solo / Solitaire Game, Storytelling, Variable Player Powers, Worker Placement",244
+"End Game Bonuses, Hand Management, Layering, Melding and Splaying, Multi-Use Cards, Open Drafting, Set Collection, Tags",245
+"Enclosure, Grid Movement, Hexagon Grid, Pattern Movement, Pieces as Map, Slide / Push, Three Dimensional Movement, Tile Placement",246
+"Area Majority / Influence, Campaign / Battle Card Driven, Command Cards, Dice Rolling, Die Icon Resolution, Grid Movement, Hand Management, Hexagon Grid, Line of Sight, Modular Board, Movement Points, Scenario / Mission / Campaign Game, Simulation, Team-Based Game, Variable Set-up",247
+"Hand Management, Layering, Open Drafting, Set Collection, Solo / Solitaire Game, Worker Placement, Different Worker Types",248
+"Area Majority / Influence, Contracts, Dice Rolling, End Game Bonuses, Rondel, Solo / Solitaire Game, Victory Points as a Resource",249
+"Action Points, Cooperative Game, Dice Rolling, Grid Movement, Hand Management, Line of Sight, Map Addition, Modular Board, Movement Points, Multiple Maps, Once-Per-Game Abilities, Role Playing, Scenario / Mission / Campaign Game, Solo / Solitaire Game, Stat Check Resolution, Team-Based Game, Variable Player Powers",250
+"Area Majority / Influence, Kill Steal, Set Collection, Tile Placement",251
+Worker Placement,252
+"Contracts, Dice Rolling, End Game Bonuses, Grid Coverage, Open Drafting, Pattern Building, Set Collection, Solo / Solitaire Game, Turn Order: Progressive, Variable Set-up",253
+"Closed Drafting, Hand Management, Neighbor Scope, Set Collection, Simultaneous Action Selection, Variable Player Powers",254
+"Action Points, Card Play Conflict Resolution, Force Commitment, Hand Management, Point to Point Movement, Secret Unit Deployment, Turn Order: Auction, Variable Set-up",255
+"End Game Bonuses, Hidden Victory Points, I Cut, You Choose, Increase Value of Unchosen Resources, Pattern Building, Set Collection, Tile Placement, Turn Order: Progressive",256
+"Alliances, Card Play Conflict Resolution, Hand Management, Interrupts, Negotiation, Prisoner's Dilemma, Race, Simultaneous Action Selection, Take That, Trading, Variable Player Powers",257
+"Dice Rolling, Open Drafting, Random Production",258
+"Auction / Bidding, Auction: English, Auction: Once Around, Auction: Sealed Bid, Auction: Turn Order Until Pass, Commodity Speculation, Hand Management, Victory Points as a Resource",259
+"Dice Rolling, Open Drafting, Set Collection, Variable Player Powers, Worker Placement",260
+"Finale Ending, Hidden Roles, Roles with Asymmetric Information, Simultaneous Action Selection, Team-Based Game, Traitor Game, Variable Player Powers, Voting",261
+"Action Points, Cooperative Game, Dice Rolling, Pick-up and Deliver, Point to Point Movement, Solo / Solitaire Game, Variable Player Powers, Variable Set-up",262
+"Action Points, Connections, End Game Bonuses, Hexagon Grid, Income, Loans, Network and Route Building, Open Drafting, Ownership, Pick-up and Deliver, Tile Placement, Turn Order: Auction",263
+"Action / Event, Cooperative Game, Deck, Bag, and Pool Building, Memory, Scenario / Mission / Campaign Game, Simultaneous Action Selection, Variable Set-up",264
+"Deck, Bag, and Pool Building, Open Drafting, Tug of War",265
+"Advantage Token, Alliances, Area Movement, Auction / Bidding, Auction: Sealed Bid, Card Play Conflict Resolution, Events, Hand Management, Income, Negotiation, Order Counters, Player Elimination, Simultaneous Action Selection, Sudden Death Ending, Turn Order: Auction, Variable Player Powers",266
+"End Game Bonuses, Open Drafting, Pattern Building, Set Collection, Tile Placement, Turn Order: Claim Action",267
+"Chaining, Enclosure, Pattern Building, Pattern Recognition, Square Grid",268
+,269
+"Cooperative Game, Hand Management, Solo / Solitaire Game, Variable Player Powers",270
+"Hand Management, Network and Route Building, Open Drafting, Push Your Luck, Set Collection",271
+"Increase Value of Unchosen Resources, Modular Board, Network and Route Building, Worker Placement, Worker Placement, Different Worker Types",272
+"Area Majority / Influence, Enclosure, End Game Bonuses, Kill Steal, Map Addition, Modular Board, Pattern Building, Square Grid, Take That, Tile Placement, Worker Placement",273
+"Action Points, Dice Rolling, Grid Movement, Hand Management, Modular Board, Tech Trees / Tech Tracks, Trading, Variable Player Powers",274
+"Deduction, Grid Movement, Hidden Movement, Line Drawing, Real-Time, Role Playing, Secret Unit Deployment, Simulation, Team-Based Game",275
+"Campaign / Battle Card Driven, Command Cards, Dice Rolling, Hand Management, Hexagon Grid, Modular Board, Scenario / Mission / Campaign Game, Simulation",276
+"Auction: Dutch, Catch the Leader, End Game Bonuses, Hexagon Grid, Income, Open Drafting, Set Collection, Solo / Solitaire Game, Tile Placement",277
+"Area Majority / Influence, Area Movement, Dice Rolling, Modular Board, Passed Action Token, Team-Based Game, Tile Placement, Variable Player Powers",278
+"Area Majority / Influence, Contracts, Set Collection, Turn Order: Claim Action, Worker Placement, Worker Placement, Different Worker Types",279
+"Area Movement, Cooperative Game, Events, Push Your Luck, Random Production, Scenario / Mission / Campaign Game, Solo / Solitaire Game, Sudden Death Ending, Trading, Variable Player Powers, Variable Set-up",280
+"Action Retrieval, Alliances, Area Majority / Influence, Auction: Sealed Bid, Card Play Conflict Resolution, Grid Movement, Hexagon Grid, Kill Steal, Player Elimination, Race, Tech Trees / Tech Tracks, Variable Player Powers",281
+"Deck, Bag, and Pool Building, Pick-up and Deliver, Point to Point Movement, Worker Placement",282
+"Bribery, Dice Rolling, Negotiation, Push Your Luck, Simulation, Voting",283
+"Action Points, Area Movement, Dice Rolling, Hand Management, Narrative Choice / Paragraph, Push Your Luck, Scenario / Mission / Campaign Game, Semi-Cooperative Game, Storytelling, Trading, Traitor Game, Turn Order: Progressive, Variable Player Powers, Voting",284
+"Hand Management, Network and Route Building, Open Drafting, Set Collection, Stock Holding, Tech Trees / Tech Tracks",285
+"Hand Management, Ladder Climbing, Predictive Bid, Team-Based Game",286
+"Cooperative Game, Deck, Bag, and Pool Building, Hand Management, Legacy Game, Open Drafting, Scenario / Mission / Campaign Game, Solo / Solitaire Game, Variable Phase Order, Variable Player Powers",287
+"Auction / Bidding, Auction: Multiple Lot, Auction: Sealed Bid, Constrained Bidding, End Game Bonuses, Selection Order Bid, Set Collection, Simultaneous Action Selection",288
+"Deck, Bag, and Pool Building, Dice Rolling, Open Drafting, Turn Order: Progressive, Worker Placement, Worker Placement with Dice Workers",289
+"Deck, Bag, and Pool Building, Delayed Purchase, Hand Management, Open Drafting, Take That",290
+"Campaign / Battle Card Driven, Dice Rolling, Point to Point Movement",291
+"Catch the Leader, Grid Movement, Pattern Building",292
+"Action Drafting, Auction / Bidding, Dice Rolling, End Game Bonuses, Income, Open Drafting, Point to Point Movement, Set Collection, Tech Trees / Tech Tracks, Turn Order: Stat-Based, Variable Set-up, Worker Placement with Dice Workers",293
+"Dice Rolling, Modular Board, Once-Per-Game Abilities, Re-rolling and Locking, Scenario / Mission / Campaign Game, Solo / Solitaire Game, Square Grid, Sudden Death Ending, Variable Set-up, Worker Placement, Worker Placement with Dice Workers",294
+"Real-Time, Score-and-Reset Game",295
+"Hand Management, Point to Point Movement, Variable Player Powers",296
+"Contracts, End Game Bonuses, Events, Hidden Victory Points, Income, Open Drafting, Turn Order: Stat-Based, Variable Player Powers, Worker Placement",297
+"Bingo, Catch the Leader, Grid Coverage, Legacy Game, Pattern Building, Scenario / Mission / Campaign Game, Tile Placement",298
+"Action Points, Action Queue, Catch the Leader, Deck, Bag, and Pool Building, Dice Rolling, Simultaneous Action Selection, Tile Placement, Turn Order: Stat-Based, Worker Placement, Worker Placement, Different Worker Types",299
+"Closed Drafting, Contracts, Dice Rolling, End Game Bonuses, Hand Management, Movement Points, Multiple Maps, Narrative Choice / Paragraph, Network and Route Building, Open Drafting, Point to Point Movement, Push Your Luck, Resource to Move, Scenario / Mission / Campaign Game, Set Collection, Storytelling, Tags, Variable Player Powers, Worker Placement",300
+"Enclosure, End Game Bonuses, Grid Coverage, Hexagon Grid, Open Drafting, Pattern Building, Set Collection, Solo / Solitaire Game, Tile Placement",301
+"Area Majority / Influence, Area Movement, Auction / Bidding, Auction: Fixed Placement, Dice Rolling, Open Drafting, Set Collection, Variable Phase Order",302
+"Hidden Roles, Player Elimination, Team-Based Game, Traitor Game, Voting",303
+"Advantage Token, Campaign / Battle Card Driven, Grid Movement, Hexagon Grid, Line of Sight, Movement Points, Simulation, Variable Phase Order",304
+"Hand Management, Simultaneous Action Selection, Variable Player Powers",305
+"Action Points, Dice Rolling, Income, Set Collection, Tile Placement, Worker Placement",306
+"Betting and Bluffing, Dice Rolling, Roll / Spin and Move, Track Movement, Variable Set-up",307
+"Area Majority / Influence, Automatic Resource Growth, Contracts, Dice Rolling, Hand Management, Hidden Victory Points, Income, Market, Multi-Use Cards, Open Drafting, Simultaneous Action Selection, Solo / Solitaire Game, Variable Player Powers, Victory Points as a Resource",308
+"Communication Limits, Cooperative Game, Memory, Push Your Luck",309
+"Dice Rolling, Modular Board, Pick-up and Deliver, Tile Placement, Trading, Variable Player Powers",310
+"End Game Bonuses, Hand Management, Open Drafting, Set Collection, Tags",311
+Take That,312
+"Deck, Bag, and Pool Building, Events, Open Drafting, Semi-Cooperative Game, Solo / Solitaire Game, Variable Set-up",313
+"Action Retrieval, Auction: Dutch, Contracts, Deck, Bag, and Pool Building, Hand Management, Increase Value of Unchosen Resources, Open Drafting, Set Collection",314
+"Area Majority / Influence, Force Commitment, Hand Management, I Cut, You Choose, Open Drafting, Race",315
+"Action Points, Card Play Conflict Resolution, Hand Management, Line of Sight, Player Elimination, Point to Point Movement, Team-Based Game, Variable Player Powers",316
+"Communication Limits, Deduction, Events, Finale Ending, Hidden Roles, Storytelling, Team-Based Game, Traitor Game, Variable Set-up",317
+"Closed Drafting, End Game Bonuses, Hand Management, Set Collection, Simultaneous Action Selection, Variable Set-up",318
+"Cooperative Game, Deduction, Scenario / Mission / Campaign Game, Solo / Solitaire Game",319
+"Cooperative Game, Dice Rolling, Modular Board, Scenario / Mission / Campaign Game, Turn Order: Progressive, Variable Player Powers",320
+"Area Majority / Influence, Hand Management, Hexagon Grid, Once-Per-Game Abilities, Set Collection, Tile Placement",321
+"Catch the Leader, Commodity Speculation, I Cut, You Choose, Set Collection, Tile Placement, Turn Order: Progressive",322
+"Catch the Leader, Hand Management, Modular Board, Programmed Movement, Race, Simulation, Simultaneous Action Selection, Track Movement",323
+"Auction / Bidding, End Game Bonuses, Grid Coverage, Tile Placement, Victory Points as a Resource",324
+"Dice Rolling, Open Drafting, Role Playing, Set Collection, Variable Player Powers",325
+"End Game Bonuses, Follow, Hand Management, Multi-Use Cards, Set Collection, Sudden Death Ending, Variable Phase Order",326
+"Dice Rolling, Variable Player Powers",327
+"Action Points, Advantage Token, Automatic Resource Growth, Contracts, End Game Bonuses, Hand Management, Income, Increase Value of Unchosen Resources, Market, Modular Board, Solo / Solitaire Game, Turn Order: Claim Action, Worker Placement",328
+"Action Points, Area Movement, Betting and Bluffing, Card Play Conflict Resolution, Dice Rolling, End Game Bonuses, Hand Management, Pick-up and Deliver, Take That, Variable Player Powers",329
+"Dice Rolling, Open Drafting, Point to Point Movement, Worker Placement with Dice Workers",330
+"Deck, Bag, and Pool Building, Hand Management, Once-Per-Game Abilities, Player Elimination, Take That",331
+"Events, Hand Management, Open Drafting, Set Collection, Worker Placement",332
+"Action Points, Commodity Speculation, Variable Phase Order, Worker Placement",333
+"Area Majority / Influence, Card Play Conflict Resolution, Contracts, Dice Rolling, Die Icon Resolution, Events, Grid Coverage, Hand Management, Hexagon Grid, Income, Map Addition, Multiple Maps, Once-Per-Game Abilities, Open Drafting, Push Your Luck, Solo / Solitaire Game, Square Grid, Tags, Take That, Tech Trees / Tech Tracks, Tile Placement, Variable Player Powers, Variable Set-up",334
+"Grid Movement, Map Reduction, Race, Square Grid, Team-Based Game, Three Dimensional Movement, Variable Player Powers",335
+"Auction / Bidding, Auction: Once Around, Hand Management, Push Your Luck, Tech Trees / Tech Tracks",336
+"Auction / Bidding, Hexagon Grid, Investment, Market, Network and Route Building, Ownership, Stock Holding, Tile Placement, Victory Points as a Resource",337
+"Area Majority / Influence, Deck, Bag, and Pool Building, Delayed Purchase, End Game Bonuses, Hand Management, Income, Open Drafting, Set Collection",338
+"End Game Bonuses, Hand Management, Race, Tech Trees / Tech Tracks, Variable Set-up, Worker Placement, Different Worker Types",339
+"Cooperative Game, Deck, Bag, and Pool Building, Point to Point Movement, Worker Placement",340
+"Communication Limits, Cooperative Game",341
+"Action Queue, Area Majority / Influence, Area Movement, Auction / Bidding, Cube Tower, Simultaneous Action Selection, Variable Phase Order",342
+"Dice Rolling, Events, Real-Time, Relative Movement, Team-Based Game, Tile Placement, Track Movement",343
+"Action Points, Action Retrieval, Chaining, Cooperative Game, End Game Bonuses, Grid Movement, Map Addition, Modular Board, Scenario / Mission / Campaign Game, Solo / Solitaire Game, Tech Trees / Tech Tracks, Variable Set-up",344
+"Contracts, End Game Bonuses, Worker Placement",345
+"Area Majority / Influence, Point to Point Movement",346
+"Acting, Communication Limits, Open Drafting, Role Playing, Singing, Team-Based Game",347
+"Set Collection, Variable Player Powers, Worker Placement",348
+"Constrained Bidding, End Game Bonuses, Hand Management, Open Drafting, Selection Order Bid, Set Collection, Simultaneous Action Selection, Tags, Turn Order: Auction",349
+"Area Majority / Influence, Dice Rolling, End Game Bonuses, Events, Hand Management, Hexagon Grid, Tech Trees / Tech Tracks, Variable Player Powers, Variable Set-up, Worker Placement, Worker Placement, Different Worker Types",350
+"Contracts, Hand Management, Income, Race, Turn Order: Progressive, Worker Placement",351
+"Area Majority / Influence, Deck, Bag, and Pool Building, End Game Bonuses, Hand Management, Income, Set Collection, Solo / Solitaire Game, Turn Order: Claim Action, Worker Placement with Dice Workers",352
+"Cooperative Game, Deduction, Grid Movement, Hidden Movement, Paper-and-Pencil, Point to Point Movement, Team-Based Game, Variable Player Powers",353
+"Action / Event, Area Majority / Influence, Campaign / Battle Card Driven, Hand Management, Simulation",354
+"Area Majority / Influence, Deck, Bag, and Pool Building, End Game Bonuses, Hand Management, Income, Modular Board, Multi-Use Cards, Set Collection, Solo / Solitaire Game, Tech Trees / Tech Tracks, Turn Order: Auction, Variable Player Powers, Variable Set-up, Worker Placement",355
+"Cooperative Game, Narrative Choice / Paragraph, Scenario / Mission / Campaign Game, Solo / Solitaire Game, Storytelling, Variable Player Powers",356
+"Action Drafting, Action Points, Contracts, Dice Rolling, End Game Bonuses, Point to Point Movement, Set Collection, Variable Set-up",357
+"Hand Management, Income, Market, Set Collection, Turn Order: Progressive",358
+"Hand Management, Predictive Bid, Rock-Paper-Scissors, Trick-taking",359
+"Hand Management, Team-Based Game, Variable Player Powers",360
+"Closed Drafting, Dice Rolling, Role Playing, Set Collection, Variable Player Powers",361
+"Action Retrieval, Deck, Bag, and Pool Building, Delayed Purchase, Hand Management, Multi-Use Cards, Open Drafting, Race, Resource to Move, Solo / Solitaire Game, Track Movement, Worker Placement",362
+"Dice Rolling, Die Icon Resolution, Grid Movement, Player Elimination, Roll / Spin and Move, Take That",363
+"End Game Bonuses, Worker Placement",364
+"Hand Management, Open Drafting, Push Your Luck, Score-and-Reset Game, Set Collection, Sudden Death Ending",365
+"Cooperative Game, Hand Management, Modular Board, Solo / Solitaire Game, Variable Player Powers",366
+"Dice Rolling, Set Collection, Worker Placement, Worker Placement with Dice Workers",367
+"Area Majority / Influence, Auction / Bidding, Modular Board, Open Drafting, Set Collection",368
+"Cooperative Game, Scenario / Mission / Campaign Game, Solo / Solitaire Game, Storytelling",369
+"Action Points, Area Majority / Influence, Area Movement, Dice Rolling, Modular Board, Negotiation, Scenario / Mission / Campaign Game, Storytelling, Take That, Variable Set-up",370
+"Enclosure, Open Drafting, Tile Placement, Turn Order: Claim Action",371
+"Cooperative Game, Deck, Bag, and Pool Building, Open Drafting, Player Elimination, Solo / Solitaire Game, Take That",372
+"Card Play Conflict Resolution, Hand Management, Melding and Splaying",373
+"Cooperative Game, Deck, Bag, and Pool Building, Hand Management, Open Drafting, Scenario / Mission / Campaign Game, Variable Phase Order, Variable Player Powers",374
+"Auction / Bidding, Loans, Network and Route Building, Ownership, Pick-up and Deliver, Tile Placement",375
+"Dice Rolling, Hand Management, Role Playing, Team-Based Game, Traitor Game, Variable Player Powers",376
+"Income, Multi-Use Cards, Solo / Solitaire Game, Tile Placement, Variable Player Powers, Worker Placement",377
+"Action Retrieval, Area Majority / Influence, Deck, Bag, and Pool Building, Delayed Purchase, Hand Management, Open Drafting, Set Collection, Turn Order: Claim Action",378
+"Enclosure, Grid Movement, Hexagon Grid, Pattern Movement, Pieces as Map, Three Dimensional Movement, Tile Placement",379
+"Deduction, Hexagon Grid, Modular Board, Pattern Recognition",380
+"Auction: Dutch, Income, Market, Ownership, Square Grid, Tile Placement",381
+"Dice Rolling, Events, Narrative Choice / Paragraph, Scenario / Mission / Campaign Game, Semi-Cooperative Game, Stat Check Resolution, Storytelling, Worker Placement",382
+"Deduction, Solo / Solitaire Game",383
+"Area Majority / Influence, Hand Management, Open Drafting, Push Your Luck, Set Collection",384
+"Dice Rolling, Take That, Team-Based Game, Variable Player Powers",385
+"Cooperative Game, Dice Rolling, Move Through Deck, Narrative Choice / Paragraph, Storytelling, Variable Player Powers",386
+"Action Points, Area Majority / Influence, Area Movement, Dice Rolling, Variable Player Powers",387
+"Storytelling, Targeted Clues, Voting",388
+"Closed Drafting, Dice Rolling, Die Icon Resolution, Hand Management, Open Drafting, Tags, Take That, Turn Order: Progressive, Victory Points as a Resource",389
+"Dice Rolling, Hand Management, Memory, Modular Board, Network and Route Building, Trading",390
+"Drawing, Paper-and-Pencil",391
+"Bids As Wagers, Bingo, Dice Rolling, End Game Bonuses, Paper-and-Pencil, Solo / Solitaire Game, Victory Points as a Resource",392
+"Deduction, Hand Management, Player Elimination, Score-and-Reset Game, Take That",393
+"Action Retrieval, Dice Rolling, Grid Movement, Line of Sight, Modular Board, Scenario / Mission / Campaign Game, Square Grid, Take That, Variable Player Powers",394
+"Cooperative Game, Dice Rolling, Modular Board, Point to Point Movement, Stat Check Resolution, Variable Player Powers",395
+"Card Play Conflict Resolution, Deck, Bag, and Pool Building, Dice Rolling, Events, Hand Management, Increase Value of Unchosen Resources, Narrative Choice / Paragraph, Open Drafting, Pick-up and Deliver, Point to Point Movement, Race, Role Playing, Solo / Solitaire Game, Variable Player Powers, Variable Set-up",396
+"Deck, Bag, and Pool Building, End Game Bonuses, Hand Management, Move Through Deck, Open Drafting, Scenario / Mission / Campaign Game, Solo / Solitaire Game, Take That, Variable Player Powers, Variable Set-up",397
+"Dice Rolling, Die Icon Resolution, End Game Bonuses, Events, Variable Player Powers, Worker Placement, Worker Placement, Different Worker Types",398
+"Grid Movement, Hand Management, Pattern Movement, Square Grid, Static Capture",399
+"Hand Management, Melding and Splaying, Ordering, Push Your Luck, Score-and-Reset Game, Set Collection",400
+"Cooperative Game, Dice Rolling, Hand Management, Point to Point Movement, Variable Player Powers",401
+"Auction / Bidding, Pick-up and Deliver, Tech Trees / Tech Tracks",402
+"End Game Bonuses, Hand Management, Open Drafting, Set Collection, Variable Player Powers, Worker Placement",403
+"Advantage Token, Area Majority / Influence, Area Movement, Investment, Ownership, Rondel, Stock Holding, Victory Points as a Resource",404
+"Advantage Token, Area Movement, Market, Rondel",405
+"Contracts, Dice Rolling, Grid Movement, Modular Board, Network and Route Building, Pick-up and Deliver, Race, Variable Set-up",406
+"Area Majority / Influence, Pattern Building, Tile Placement",407
+"Hand Management, Open Drafting, Set Collection, Worker Placement",408
+"Auction / Bidding, Auction: Sealed Bid, Auction: Turn Order Until Pass, Hand Management, Selection Order Bid",409
+"Auction / Bidding, Hand Management, Selection Order Bid, Simultaneous Action Selection, Worker Placement",410
+"Action Queue, Bias, Cooperative Game, Dice Rolling, Events, Hexagon Grid, Modular Board, Solo / Solitaire Game, Team-Based Game, Tech Trees / Tech Tracks, Tile Placement, Turn Order: Progressive, Variable Player Powers",411
+"Action Points, Card Play Conflict Resolution, Deck Construction, Dice Rolling, Die Icon Resolution, Grid Movement, Hand Management, Multi-Use Cards, Take That, Variable Player Powers",412
+"Action Queue, Area Movement, Cooperative Game, Elapsed Real Time Ending, Hand Management, Programmed Movement, Real-Time, Simultaneous Action Selection, Solo / Solitaire Game",413
+"Auction / Bidding, Market, Modular Board, Network and Route Building, Open Drafting, Tile Placement, Turn Order: Auction, Variable Player Powers, Variable Set-up",414
+"Deck, Bag, and Pool Building, Delayed Purchase, End Game Bonuses, Movement Points, Open Drafting, Pick-up and Deliver, Player Elimination, Point to Point Movement, Push Your Luck, Variable Set-up",415
+"Hand Management, Investment, Market, Square Grid, Stock Holding, Tile Placement, Victory Points as a Resource",416
+"Area Majority / Influence, Area Movement, Auction / Bidding, Hand Management, Memory, Open Drafting, Simultaneous Action Selection",417
+"Enclosure, Hand Management, Predictive Bid, Trick-taking",418
+"Area Majority / Influence, Set Collection, Turn Order: Claim Action, Worker Placement, Worker Placement, Different Worker Types",419
+"Auction: Turn Order Until Pass, Catch the Leader, Income, Market, Network and Route Building, Turn Order: Stat-Based",420
+"Action Points, Cooperative Game, Hand Management, Point to Point Movement, Set Collection, Solo / Solitaire Game, Tags, Team-Based Game, Trading, Variable Player Powers",421
+"Area Majority / Influence, End Game Bonuses, Modular Board, Open Drafting, Race, Set Collection, Solo / Solitaire Game, Tags, Tile Placement, Track Movement, Worker Placement with Dice Workers, Worker Placement, Different Worker Types",422
+"Area Majority / Influence, Campaign / Battle Card Driven, Communication Limits, Hand Management, Map Reduction, Memory, Simulation, Team-Based Game, Variable Set-up",423
+"Action Points, Dice Rolling, Grid Movement, Hexagon Grid, Map Reduction, Memory, Modular Board, Secret Unit Deployment, Take That",424
+"Area Majority / Influence, Cooperative Game, Hexagon Grid, Map Addition, Modular Board, Scenario / Mission / Campaign Game, Tile Placement, Variable Set-up",425
+"Simultaneous Action Selection, Storytelling, Voting",426
+"Closed Drafting, Contracts, End Game Bonuses, Hand Management, Income, Multi-Use Cards, Open Drafting, Solo / Solitaire Game, Take That, Turn Order: Progressive, Variable Player Powers",427
+"Area Movement, Cooperative Game, Dice Rolling, Hand Management, Modular Board, Pick-up and Deliver, Role Playing, Solo / Solitaire Game, Team-Based Game, Variable Player Powers",428
+"Action Points, Area Majority / Influence, Auction / Bidding, Events, Grid Movement, Hexagon Grid, Kill Steal, Layering, Map Addition, Modular Board, Set Collection, Tile Placement, Victory Points as a Resource",429
+"Automatic Resource Growth, End Game Bonuses, Follow, Once-Per-Game Abilities, Open Drafting, Set Collection, Simultaneous Action Selection, Solo / Solitaire Game, Tile Placement, Turn Order: Progressive, Variable Set-up",430
+"Action Points, Area Majority / Influence, Cooperative Game, Dice Rolling, Point to Point Movement, Push Your Luck, Simulation, Solo / Solitaire Game, Stat Check Resolution",431
+"Cooperative Game, Dice Rolling, Open Drafting, Point to Point Movement, Role Playing, Storytelling, Variable Player Powers",432
+"Bias, Bribery, End Game Bonuses, Legacy Game, Storytelling, Voting",433
+"Area Majority / Influence, Closed Drafting, End Game Bonuses, Grid Coverage, Hand Management, Simultaneous Action Selection, Square Grid",434
+"Card Play Conflict Resolution, Hand Management, Hidden Movement, Point to Point Movement, Resource to Move, Rock-Paper-Scissors, Secret Unit Deployment, Team-Based Game, Variable Player Powers",435
+"Dice Rolling, Hand Management, Multi-Use Cards",436
+"Grid Coverage, Highest-Lowest Scoring, Once-Per-Game Abilities, Rondel, Tile Placement, Track Movement, Turn Order: Claim Action, Turn Order: Pass Order",437
+"Area Majority / Influence, Area Movement, Investment, Ownership, Rondel, Stock Holding, Victory Points as a Resource",438
+"Deck, Bag, and Pool Building, Dice Rolling, Simultaneous Action Selection, Variable Phase Order, Variable Player Powers, Worker Placement",439
+"Action Retrieval, Contracts, Dice Rolling, End Game Bonuses, Follow, Open Drafting, Re-rolling and Locking, Solo / Solitaire Game, Take That, Variable Phase Order, Variable Player Powers",440
+"Enclosure, Income, Investment, Negotiation, Set Collection, Tile Placement, Trading, Victory Points as a Resource",441
+"Deck Construction, Dice Rolling, Grid Movement, Hand Management, Stat Check Resolution, Variable Player Powers",442
+"Open Drafting, Turn Order: Claim Action, Worker Placement",443
+"Deduction, Hand Management, Roles with Asymmetric Information, Trading",444
+"Dice Rolling, Map Addition, Role Playing, Solo / Solitaire Game, Storytelling, Tile Placement",445
+"Hand Management, Modular Board, Network and Route Building, Worker Placement",446
+"Cooperative Game, Deck, Bag, and Pool Building, Open Drafting, Scenario / Mission / Campaign Game, Solo / Solitaire Game, Variable Player Powers, Worker Placement",447
+"Action Points, Open Drafting, Pattern Building, Resource Queue, Solo / Solitaire Game, Tile Placement",448
+"Hand Management, Open Drafting, Tile Placement",449
+"Area Majority / Influence, Dice Rolling, Open Drafting, Worker Placement with Dice Workers",450
+"Area Majority / Influence, Auction / Bidding, Grid Movement, Hexagon Grid, Modular Board, Simultaneous Action Selection, Variable Player Powers",451
+"Contracts, End Game Bonuses, Hand Management, Modular Board, Multi-Use Cards, Set Collection, Solo / Solitaire Game, Tags, Worker Placement",452
+Cooperative Game,453
+"Area Movement, Dice Rolling, Hidden Victory Points, Increase Value of Unchosen Resources, Variable Player Powers, Variable Set-up, Victory Points as a Resource",454
+"Automatic Resource Growth, Cooperative Game, Deck Construction, Events, Hand Management, Scenario / Mission / Campaign Game, Solo / Solitaire Game, Variable Player Powers, Variable Set-up",455
+"Contracts, Dice Rolling, Hand Management, Open Drafting, Solo / Solitaire Game, Variable Player Powers, Worker Placement, Worker Placement, Different Worker Types",456
+"Bingo, Chaining, Hexagon Grid, Hidden Victory Points, Line Drawing, Network and Route Building, Pattern Movement, Solo / Solitaire Game",457
+"Action Points, Cooperative Game, Dice Rolling, Grid Movement, Map Addition, Modular Board, Multiple Maps, Solo / Solitaire Game, Square Grid, Three Dimensional Movement, Variable Player Powers",458
+"Drawing, Follow, Hand Management, Layering, Melding and Splaying, Sudden Death Ending, Tags, Take That, Tech Trees / Tech Tracks",459
+"Race, Variable Player Powers, Worker Placement",460
+"Contracts, Market, Pattern Building, Point to Point Movement, Set Collection, Solo / Solitaire Game, Tile Placement",461
+"Action Points, Dice Rolling, Narrative Choice / Paragraph, Set Collection, Storytelling, Trading, Turn Order: Progressive",462
+"Action Points, Area Movement, Bias, Dice Rolling, Events, Pick-up and Deliver, Race, Variable Player Powers, Variable Set-up",463
+"Area Majority / Influence, Connections, Grid Movement, Hand Management, Hexagon Grid, Line of Sight, Player Elimination, Solo / Solitaire Game, Team-Based Game, Tile Placement, Variable Player Powers",464
+"Action Points, Increase Value of Unchosen Resources, Market, Open Drafting, Simulation",465
+"Action Points, Cooperative Game, Dice Rolling, Hand Management, Narrative Choice / Paragraph, Push Your Luck, Semi-Cooperative Game, Storytelling, Trading, Traitor Game, Variable Player Powers, Voting",466
+"Hand Management, Take That",467
+"Hand Management, Open Drafting, Pattern Building, Set Collection, Tile Placement",468
+"Action Queue, Auction / Bidding, Auction Compensation, Auction: Fixed Placement, Auction: Multiple Lot, Constrained Bidding, Multi-Use Cards, Open Drafting, Turn Order: Progressive, Variable Player Powers, Variable Set-up",469
+"Auction: Sealed Bid, Hidden Victory Points, Income, Negotiation, Real-Time, Simultaneous Action Selection, Tech Trees / Tech Tracks, Trading, Variable Player Powers",470
+"Cooperative Game, Hand Management, Modular Board, Solo / Solitaire Game, Team-Based Game, Variable Player Powers",471
+"Grid Coverage, Hexagon Grid, Modular Board, Square Grid, Tile Placement, Trading",472
+"Grid Coverage, Modular Board, Open Drafting, Set Collection, Square Grid, Tile Placement",473
+"Action Retrieval, Area Majority / Influence, Area Movement, Hand Management, Simultaneous Action Selection, Take That, Turn Order: Role Order",474
+"Deck, Bag, and Pool Building, Grid Movement, Hand Management, Modular Board, Open Drafting, Rock-Paper-Scissors, Square Grid, Tech Trees / Tech Tracks, Trading, Variable Player Powers",475
+"Hidden Movement, Memory, Point to Point Movement, Questions and Answers, Secret Unit Deployment, Team-Based Game",476
+"Race, Singing, Storytelling, Targeted Clues, Voting",477
+"Action Queue, Contracts, Open Drafting",478
+"Cooperative Game, Cube Tower, Events, Modular Board, Scenario / Mission / Campaign Game, Solo / Solitaire Game, Variable Player Powers, Worker Placement, Different Worker Types",479
+"Action Queue, Hand Management, Simultaneous Action Selection, Tile Placement, Worker Placement",480
+"Action Retrieval, Deck, Bag, and Pool Building, Grid Movement, Hand Management, Melding and Splaying, Modular Board, Multi-Use Cards, Solo / Solitaire Game, Tags, Variable Player Powers, Variable Set-up, Victory Points as a Resource, Worker Placement, Different Worker Types",481
+"Area Majority / Influence, Area Movement, Cube Tower, Deck, Bag, and Pool Building, Layering, Modular Board, Scenario / Mission / Campaign Game",482
+"Action Drafting, Income, Open Drafting, Pattern Building, Turn Order: Stat-Based, Variable Set-up",483
+"Area Majority / Influence, Closed Drafting, End Game Bonuses, Hand Management, Income, Layering, Modular Board, Simultaneous Action Selection, Solo / Solitaire Game, Square Grid, Tile Placement, Turn Order: Progressive",484
+"Cooperative Game, Deck, Bag, and Pool Building, Scenario / Mission / Campaign Game, Variable Player Powers",485
+"Campaign / Battle Card Driven, Command Cards, Dice Rolling, Grid Movement, Modular Board, Secret Unit Deployment, Variable Player Powers",486
+"Cube Tower, End Game Bonuses, Open Drafting, Simultaneous Action Selection",487
+"Area Majority / Influence, Card Play Conflict Resolution, Hand Management",488
+"Action Points, Contracts, Dice Rolling, Die Icon Resolution, End Game Bonuses, Grid Movement, Hexagon Grid, Modular Board, Network and Route Building, Pattern Building, Race, Set Collection, Tags, Tile Placement",489
+"Auction / Bidding, Hand Management, Memory, Open Drafting, Push Your Luck, Set Collection",490
+"Communication Limits, Cooperative Game, Deduction, Finale Ending, Hand Management, Pattern Recognition, Storytelling, Voting",491
+"Action Points, Card Play Conflict Resolution, Hand Management, Line of Sight, Point to Point Movement, Variable Player Powers",492
+"Communication Limits, Hand Management, Network and Route Building, Open Drafting, Set Collection, Team-Based Game",493
+"Area Movement, Contracts, End Game Bonuses, Open Drafting, Tile Placement, Turn Order: Progressive, Variable Set-up",494
+"Card Play Conflict Resolution, Hand Management, Melding and Splaying, Set Collection",495
+"Action Drafting, Follow, Hand Management, Multi-Use Cards, Set Collection, Variable Phase Order",496
+"Cooperative Game, Dice Rolling, Grid Movement, Modular Board, Move Through Deck, Solo / Solitaire Game, Variable Player Powers",497
+"Automatic Resource Growth, Enclosure, Increase Value of Unchosen Resources, Tile Placement, Turn Order: Claim Action, Worker Placement",498
+"Hidden Roles, Memory, Roles with Asymmetric Information, Simultaneous Action Selection, Team-Based Game, Traitor Game, Voting",499
+"Action Retrieval, Area Movement, Cooperative Game, Deck, Bag, and Pool Building, Modular Board, Scenario / Mission / Campaign Game, Solo / Solitaire Game, Variable Player Powers, Variable Set-up",500
+"Area Majority / Influence, Deck, Bag, and Pool Building, Dice Rolling, Hand Management, Open Drafting",501
+"Hand Management, Open Drafting, Variable Player Powers",502
+"Hand Management, Market, Open Drafting",503
+"Action Queue, Critical Hits and Failures, Dice Rolling, Line of Sight, Movement Template, Simulation, Variable Player Powers",504
+"Action Queue, Area Majority / Influence, Layering, Network and Route Building, Simultaneous Action Selection, Solo / Solitaire Game, Turn Order: Stat-Based, Variable Set-up",505
+"Area Majority / Influence, Area Movement, Card Play Conflict Resolution, Dice Rolling, Hand Management, Open Drafting, Solo / Solitaire Game, Variable Player Powers, Worker Placement",506
+"Hand Management, Multi-Use Cards, Open Drafting, Take That, Variable Phase Order, Variable Player Powers, Worker Placement",507
+"Dice Rolling, Paper-and-Pencil, Re-rolling and Locking, Solo / Solitaire Game",508
+"Action Drafting, Area Majority / Influence, Area Movement, Campaign / Battle Card Driven, Dice Rolling, Die Icon Resolution, Events, Hand Management, Simulation, Solo / Solitaire Game, Team-Based Game, Variable Set-up",509
+"Area Majority / Influence, Campaign / Battle Card Driven, Dice Rolling, Events, Point to Point Movement, Simulation",510
+"Action Points, Contracts, Deck, Bag, and Pool Building, Modular Board, Open Drafting, Tile Placement, Turn Order: Progressive, Variable Player Powers, Variable Set-up, Worker Placement",511
+"Area Majority / Influence, Closed Drafting, Point to Point Movement",512
+"Events, Market, Turn Order: Claim Action, Turn Order: Random, Worker Placement, Worker Placement, Different Worker Types",513
+"Area Majority / Influence, Auction / Bidding, Hand Management, Memory, Open Drafting, Take That, Variable Player Powers, Worker Placement, Worker Placement, Different Worker Types",514
+"Action Points, Cooperative Game, Dice Rolling, Events, Hand Management, Point to Point Movement, Set Collection, Solo / Solitaire Game, Variable Player Powers",515
+"Action Retrieval, Closed Drafting, Deck, Bag, and Pool Building, End Game Bonuses, Hand Management, Income, Open Drafting, Point to Point Movement, Solo / Solitaire Game, Tech Trees / Tech Tracks, Tile Placement, Turn Order: Progressive, Variable Set-up",516
+"Dice Rolling, Modular Board, Open Drafting, Variable Player Powers, Worker Placement",517
+"Betting and Bluffing, Dice Rolling, Real-Time, Track Movement",518
+"Bingo, End Game Bonuses, Grid Coverage, Line Drawing, Paper-and-Pencil, Simultaneous Action Selection, Solo / Solitaire Game, Square Grid, Variable Set-up",519
+"Contracts, Income, Loans, Market, Open Drafting, Solo / Solitaire Game, Turn Order: Progressive",520
+"Income, Open Drafting, Set Collection",521
+"Area Majority / Influence, Area Movement, Campaign / Battle Card Driven, Dice Rolling, Hand Management, Variable Phase Order",522
+"Auction: Dutch, End Game Bonuses, Layering, Open Drafting, Pattern Building, Solo / Solitaire Game, Tile Placement, Turn Order: Progressive",523
+"Deck Construction, Dice Rolling, Grid Movement, Line of Sight, Simultaneous Action Selection, Square Grid, Turn Order: Progressive, Variable Player Powers",524
+"Area Majority / Influence, Hand Management, Set Collection, Worker Placement",525
+"Grid Movement, Once-Per-Game Abilities, Pattern Movement, Square Grid, Static Capture, Sudden Death Ending",526
+"Contracts, End Game Bonuses, Layering, Melding and Splaying, Open Drafting, Programmed Movement, Rondel, Set Collection, Solo / Solitaire Game, Tags, Variable Set-up, Worker Placement",527
+"Action Retrieval, Contracts, Enclosure, End Game Bonuses, Grid Movement, Hexagon Grid, Income, Market, Memory, Modular Board, Open Drafting, Pattern Building, Pieces as Map, Race, Resource to Move, Solo / Solitaire Game, Square Grid, Tile Placement, Variable Set-up, Worker Placement",528
+"Cooperative Game, Dice Rolling, Events, Finale Ending, Hand Management, Lose a Turn, Point to Point Movement, Role Playing, Solo / Solitaire Game, Stat Check Resolution, Variable Player Powers",529
+"Dice Rolling, Die Icon Resolution, King of the Hill, Open Drafting, Player Elimination, Push Your Luck, Re-rolling and Locking, Tags, Take That",530
+"Open Drafting, Ownership, Rondel, Set Collection, Track Movement, Turn Order: Stat-Based",531
+"Area Majority / Influence, Deck, Bag, and Pool Building, Hand Management, Kill Steal, Race, Solo / Solitaire Game, Take That, Tug of War, Worker Placement, Different Worker Types",532
+"Cooperative Game, Dice Rolling, Grid Movement, Modular Board, Movement Points, Role Playing, Scenario / Mission / Campaign Game, Solo / Solitaire Game, Square Grid, Variable Player Powers",533
+"Auction / Bidding, Bids As Wagers, Hand Management, Player Elimination, Predictive Bid",534
+"Deck, Bag, and Pool Building, Dice Rolling, Open Drafting, Random Production",535
+"Auction / Bidding, Auction: Fixed Placement, Connections, Constrained Bidding, Dice Rolling, Events, Income, Investment, Stock Holding, Turn Order: Claim Action, Turn Order: Progressive, Worker Placement",536
+"End Game Bonuses, Follow, Hexagon Grid, Income, Map Addition, Multi-Use Cards, Point to Point Movement, Solo / Solitaire Game, Tile Placement, Track Movement, Variable Set-up",537
+"Action Queue, Hand Management, Loans, Open Drafting, Take That",538
+"Auction / Bidding, Betting and Bluffing, Hand Management, Moving Multiple Units, Player Elimination, Predictive Bid, Track Movement, Variable Player Powers",539
+"End Game Bonuses, Follow, Grid Coverage, Pattern Building, Player Elimination, Solo / Solitaire Game, Square Grid, Turn Order: Progressive, Variable Phase Order, Variable Player Powers, Variable Set-up",540
+"Hand Management, Network and Route Building, Open Drafting, Point to Point Movement, Set Collection",541
+"Action Drafting, Events, Hand Management, Turn Order: Stat-Based, Variable Set-up",542
+"Area Majority / Influence, Hand Management, Open Drafting, Set Collection, Tech Trees / Tech Tracks",543
+"Catch the Leader, Deck, Bag, and Pool Building, Delayed Purchase, Dice Rolling, Grid Movement, Market, Push Your Luck, Race, Re-rolling and Locking, Variable Set-up",544
+"Alliances, Area Majority / Influence, Auction / Bidding, Dice Rolling, Hand Management, Simultaneous Action Selection",545
+"Dice Rolling, Modular Board, Pick-up and Deliver, Trading, Variable Player Powers",546
+"Communication Limits, Memory, Push Your Luck, Team-Based Game",547
+"Area Majority / Influence, Campaign / Battle Card Driven, Events, Open Drafting, Point to Point Movement, Secret Unit Deployment, Simulation",548
+"End Game Bonuses, Modular Board, Open Drafting, Pattern Building, Set Collection, Tile Placement, Turn Order: Claim Action",549
+"Area Majority / Influence, Auction / Bidding, Modular Board, Open Drafting, Worker Placement",550
+"Auction / Bidding, Income, Market, Network and Route Building",551
+"Auction / Bidding, Betting and Bluffing, Bribery, Dice Rolling, Grid Movement, Hand Management, Movement Points, Sudden Death Ending, Trading, Variable Player Powers",552
+"Dice Rolling, King of the Hill, Open Drafting, Player Elimination, Push Your Luck",553
+"Deck, Bag, and Pool Building, End Game Bonuses, Hand Management, Move Through Deck, Open Drafting, Solo / Solitaire Game, Variable Player Powers, Variable Set-up",554
+"Dice Rolling, Events, Memory, Real-Time, Relative Movement, Team-Based Game, Tile Placement, Track Movement",555
+"Area Movement, Dice Rolling, Open Drafting, Pick-up and Deliver, Solo / Solitaire Game, Take That, Trading, Variable Player Powers",556
+"Auction / Bidding, Auction: Turn Order Until Pass, Closed Drafting, Commodity Speculation, Hand Management, Set Collection",557
+"Area Majority / Influence, Area Movement, Hand Management, Set Collection, Simulation, Tech Trees / Tech Tracks, Trading, Turn Order: Stat-Based",558
+"Area Majority / Influence, Command Cards, Cooperative Game, Income, Investment, Secret Unit Deployment, Solo / Solitaire Game, Turn Order: Claim Action, Worker Placement, Worker Placement, Different Worker Types",559
+"Action Points, Events, Hand Management, Secret Unit Deployment, Simulation, Take That, Turn Order: Progressive",560
+"Area Movement, Campaign / Battle Card Driven, Command Cards, Dice Rolling, Hand Management, Line of Sight, Open Drafting, Player Elimination, Scenario / Mission / Campaign Game, Simulation, Team-Based Game, Variable Player Powers",561
+"Campaign / Battle Card Driven, Dice Rolling, Events, Hand Management, Movement Points, Point to Point Movement, Scenario / Mission / Campaign Game, Simulation, Variable Player Powers, Variable Set-up",562
+"End Game Bonuses, Hand Management, Income, Open Drafting, Solo / Solitaire Game, Variable Set-up, Worker Placement",563
+"Action Retrieval, Cooperative Game, Modular Board, Scenario / Mission / Campaign Game, Tech Trees / Tech Tracks, Variable Set-up",564
+"Race, Targeted Clues, Team-Based Game",565
+"Action Points, Area Movement, Cooperative Game, Dice Rolling, Modular Board, Role Playing, Solo / Solitaire Game, Variable Player Powers",566
+"Cooperative Game, Dice Rolling, Role Playing, Storytelling, Variable Player Powers, Voting",567
+"Dice Rolling, Network and Route Building, Open Drafting, Set Collection, Tile Placement, Variable Player Powers",568
+"Commodity Speculation, Deck, Bag, and Pool Building, Hand Management, Open Drafting, Real-Time, Set Collection, Simulation, Trading",569
+"Hexagon Grid, Modular Board, Open Drafting, Set Collection, Tile Placement",570
+"Chaining, Hand Management, Multi-Use Cards, Scenario / Mission / Campaign Game, Solo / Solitaire Game, Sudden Death Ending, Worker Placement",571
+"Area Majority / Influence, Closed Drafting, Set Collection, Tug of War",572
+"Hand Management, Predictive Bid, Solo / Solitaire Game, Trick-taking",573
+"Closed Drafting, Cooperative Game, Hand Management, Layering, Solo / Solitaire Game, Tile Placement",574
+"Action Queue, Grid Movement, Market, Set Collection, Simultaneous Action Selection, Turn Order: Stat-Based, Worker Placement",575
+"Action Points, Dice Rolling, Grid Movement, Modular Board, Scenario / Mission / Campaign Game",576
+"Cooperative Game, Narrative Choice / Paragraph, Solo / Solitaire Game, Storytelling",577
+"Area Movement, Dice Rolling, Events, Hand Management, Income, Modular Board, Open Drafting, Pattern Building, Tech Trees / Tech Tracks, Track Movement, Variable Set-up",578
+"Area Majority / Influence, Open Drafting",579
+"Area Majority / Influence, Deck, Bag, and Pool Building",580
+"Action Drafting, Contracts, Dice Rolling, End Game Bonuses, Income, Rondel, Solo / Solitaire Game",581
+"Action Points, Cooperative Game, Dice Rolling, Grid Movement, Pick-up and Deliver, Simulation, Solo / Solitaire Game, Square Grid, Variable Player Powers",582
+"Campaign / Battle Card Driven, Command Cards, Dice Rolling, Grid Movement, Hand Management, Hexagon Grid, Modular Board, Simulation",583
+"Action Points, Area Majority / Influence, Critical Hits and Failures, Dice Rolling, Grid Movement, Hand Management, Hexagon Grid, Modular Board, Movement Points, Tech Trees / Tech Tracks, Trading",584
+"Action Points, Dice Rolling, Hand Management, Network and Route Building, Open Drafting, Pick-up and Deliver, Set Collection",585
+"Area Majority / Influence, Grid Movement, Variable Player Powers",586
+"Dice Rolling, Tech Trees / Tech Tracks, Worker Placement with Dice Workers",587
+"Auction / Bidding, Auction: Fixed Placement, Betting and Bluffing, Commodity Speculation, Constrained Bidding, Investment, Market, Open Drafting, Stock Holding, Victory Points as a Resource",588
+"Area Majority / Influence, Variable Phase Order",589
+"Cooperative Game, Cube Tower, Deck, Bag, and Pool Building, Scenario / Mission / Campaign Game, Solo / Solitaire Game, Variable Player Powers, Variable Set-up",590
+"Hand Management, Modular Board, Simulation, Simultaneous Action Selection",591
+"Closed Drafting, Set Collection, Simultaneous Action Selection, Variable Player Powers",592
+"Cooperative Game, Hand Management, Variable Player Powers",593
+"Action Points, Cooperative Game, Dice Rolling, Modular Board, Scenario / Mission / Campaign Game, Solo / Solitaire Game, Variable Player Powers",594
+"Deck, Bag, and Pool Building, Scenario / Mission / Campaign Game",595
+"Flicking, Modular Board, Race",596
+"Action Queue, Hand Management, Selection Order Bid, Set Collection, Simultaneous Action Selection, Take That, Turn Order: Role Order, Variable Phase Order",597
+"Action Points, Cooperative Game, Dice Rolling, Modular Board, Multiple Maps, Scenario / Mission / Campaign Game, Variable Player Powers",598
+"Action Points, Card Play Conflict Resolution, Hand Management, Line of Sight, Point to Point Movement, Team-Based Game, Variable Player Powers",599
+"Area Movement, Cooperative Game, Dice Rolling, Multiple Maps, Role Playing, Scenario / Mission / Campaign Game, Storytelling, Variable Player Powers",600
+"Action Points, Cooperative Game, Dice Rolling, Die Icon Resolution, Hand Management, Pick-up and Deliver, Point to Point Movement, Push Your Luck, Set Collection, Solo / Solitaire Game, Tech Trees / Tech Tracks, Variable Player Powers",601
+"Area Movement, Card Play Conflict Resolution, Hand Management, Secret Unit Deployment, Simultaneous Action Selection, Variable Player Powers",602
+"Action Points, Auction / Bidding, Open Drafting",603
+"Area Majority / Influence, Hand Management, Selection Order Bid, Set Collection",604
+"Acting, Betting and Bluffing, Grid Movement, Hidden Roles, Player Elimination, Role Playing, Roles with Asymmetric Information, Team-Based Game, Traitor Game, Variable Player Powers, Voting",605
+"Dice Rolling, Grid Movement, Line of Sight, Modular Board, Scenario / Mission / Campaign Game, Variable Player Powers",606
+"Alliances, Area Majority / Influence, Area Movement, Auction / Bidding, Force Commitment, Hand Management, Map Deformation, Team-Based Game, Variable Player Powers",607
+"Action Points, Cooperative Game, Hand Management, Point to Point Movement, Set Collection, Trading, Variable Player Powers",608
+"Cooperative Game, Deduction, Scenario / Mission / Campaign Game, Solo / Solitaire Game, Storytelling, Team-Based Game",609
+"Closed Drafting, Set Collection, Simultaneous Action Selection, Solo / Solitaire Game, Storytelling, Tags",610
+"Action Retrieval, Auction: Dutch Priority, Closed Drafting, Race, Take That, Worker Placement, Worker Placement, Different Worker Types",611
+"Dice Rolling, Grid Movement, Hexagon Grid, Line of Sight, Modular Board, Player Elimination, Three Dimensional Movement",612
+"Area Movement, Commodity Speculation, Set Collection, Trading",613
+"Action Points, Campaign / Battle Card Driven, Cooperative Game, Dice Rolling, Move Through Deck, Point to Point Movement, Ratio / Combat Results Table, Solo / Solitaire Game",614
+"Multi-Use Cards, Open Drafting, Set Collection, Turn Order: Time Track",615
+"Critical Hits and Failures, Dice Rolling, Grid Movement, Hexagon Grid, Interrupts, Line of Sight, Modular Board, Movement Points, Ratio / Combat Results Table, Scenario / Mission / Campaign Game, Secret Unit Deployment, Simulation, Variable Player Powers, Variable Set-up",616
+"Action Points, Area Majority / Influence, Deck Construction, Deduction, Hand Management, Turn Order: Claim Action, Worker Placement",617
+"Action Points, Grid Coverage, Loans, Open Drafting, Solo / Solitaire Game, Square Grid, Tile Placement",618
+"Area Majority / Influence, Auction / Bidding, Voting, Worker Placement, Worker Placement, Different Worker Types",619
+"Auction / Bidding, Auction: Turn Order Until Pass, Constrained Bidding, Hand Management, Highest-Lowest Scoring",620
+"Dice Rolling, Memory, Tile Placement",621
+"Area Majority / Influence, Area Movement, Dice Rolling, Variable Player Powers",622
+"Hand Management, Multi-Use Cards, Negotiation, Set Collection, Trading",623
+"Auction / Bidding, Closed Economy Auction, Push Your Luck, Set Collection",624
+"Action Drafting, Closed Drafting, Income, Lose a Turn, Set Collection, Take That, Turn Order: Role Order, Variable Player Powers, Variable Set-up",625
+"Action Points, Cooperative Game, Dice Rolling, Grid Movement, Hand Management, Modular Board, Role Playing, Scenario / Mission / Campaign Game, Solo / Solitaire Game, Storytelling, Variable Player Powers",626
+"Action Queue, Hand Management, Memory, Programmed Movement, Take That, Turn Order: Progressive, Variable Player Powers",627
+"End Game Bonuses, Open Drafting, Pattern Building, Set Collection, Square Grid, Tile Placement, Worker Placement, Worker Placement, Different Worker Types",628
+"Commodity Speculation, Dice Rolling, Set Collection, Tile Placement, Track Movement, Turn Order: Time Track",629
+"Area Majority / Influence, Card Play Conflict Resolution, Deck, Bag, and Pool Building, Delayed Purchase, Hand Management, Open Drafting, Point to Point Movement, Simulation",630
+"Action Drafting, Commodity Speculation, Contracts, End Game Bonuses, Market, Network and Route Building, Tile Placement, Turn Order: Claim Action",631
+"Action Points, Action Queue, Network and Route Building, Pick-up and Deliver, Turn Order: Claim Action, Turn Order: Progressive, Worker Placement",632
+"Action Queue, Area Majority / Influence, Area Movement, Campaign / Battle Card Driven, Deck, Bag, and Pool Building, Hand Management, Modular Board, Variable Player Powers",633
+"Area Movement, Cooperative Game, Dice Rolling, Legacy Game, Variable Player Powers",634
+"End Game Bonuses, Memory, Open Drafting, Set Collection, Simultaneous Action Selection",635
+"Contracts, Dice Rolling, End Game Bonuses, Hand Management, Multi-Use Cards, Open Drafting, Push Your Luck, Race, Re-rolling and Locking, Set Collection, Simultaneous Action Selection, Solo / Solitaire Game, Tags, Turn Order: Progressive, Worker Placement with Dice Workers",636
+"Command Cards, Deck, Bag, and Pool Building, Dice Rolling, Hexagon Grid, Modular Board, Open Drafting, Simulation",637
+"Hand Management, Take That, Variable Player Powers, Worker Placement",638
+"Action Queue, Events, Hand Management, Market, Multi-Use Cards, Square Grid, Tile Placement, Turn Order: Progressive, Variable Player Powers, Variable Set-up",639
+"Area Majority / Influence, Dice Rolling, Simulation, Solo / Solitaire Game, Variable Phase Order, Variable Player Powers",640
+"Deck, Bag, and Pool Building, End Game Bonuses, Hand Management, Layering, Open Drafting, Push Your Luck, Tags",641
+"Cooperative Game, Dice Rolling, Role Playing, Roll / Spin and Move, Scenario / Mission / Campaign Game, Square Grid, Storytelling, Variable Player Powers",642
+"Action Drafting, Closed Drafting, Income, Lose a Turn, Set Collection, Take That, Turn Order: Role Order, Variable Player Powers",643
+"Chaining, Connections, Enclosure, Hexagon Grid, Hidden Victory Points, Network and Route Building",644
+"Communication Limits, Cooperative Game, Dice Rolling, Hand Management, Player Elimination, Semi-Cooperative Game, Set Collection, Sudden Death Ending, Take That, Team-Based Game, Trading, Traitor Game, Tug of War, Variable Player Powers",645
+"Action Retrieval, Area Majority / Influence, Automatic Resource Growth, Campaign / Battle Card Driven, Cooperative Game, Events, Hand Management, Modular Board, Set Collection, Simultaneous Action Selection, Solo / Solitaire Game, Variable Player Powers, Variable Set-up",646
+"Deck, Bag, and Pool Building, Delayed Purchase, Hand Management, Push Your Luck, Solo / Solitaire Game",647
+"Auction: Dutch, Contracts, Hand Management, Increase Value of Unchosen Resources, Layering, Open Drafting, Set Collection, Solo / Solitaire Game",648
+"Area Majority / Influence, Auction / Bidding, Auction: Fixed Placement, Constrained Bidding, Score-and-Reset Game",649
+"Area Majority / Influence, Catch the Leader, Dice Rolling, Negotiation, Ownership, Random Production, Tile Placement, Trading",650
+"Cooperative Game, Deduction",651
+"Communication Limits, Cooperative Game, Hand Management, Memory, Ordering, Set Collection",652
+"Contracts, Open Drafting, Pattern Recognition, Set Collection, Take That, Variable Set-up",653
+"Bingo, Hand Management, I Cut, You Choose, Score-and-Reset Game, Stacking and Balancing",654
+"Action Points, Area Majority / Influence, Cube Tower, Grid Coverage, Grid Movement, Modular Board, Movement Points, Open Drafting, Rondel, Tile Placement",655
+"Area Majority / Influence, Campaign / Battle Card Driven, Command Cards, Dice Rolling, Grid Movement, Hand Management, Hexagon Grid, Modular Board, Variable Player Powers",656
+"Cooperative Game, Dice Rolling, Events, Grid Movement, Legacy Game, Line of Sight, Map Addition, Modular Board, Player Elimination, Role Playing, Roles with Asymmetric Information, Scenario / Mission / Campaign Game, Stat Check Resolution, Storytelling, Team-Based Game, Tile Placement, Traitor Game, Variable Player Powers",657
+"Action Retrieval, Deck, Bag, and Pool Building, Hand Management, Open Drafting, Slide / Push, Solo / Solitaire Game, Variable Player Powers",658
+"Cooperative Game, Dice Rolling, Hand Management, Point to Point Movement, Push Your Luck, Re-rolling and Locking, Set Collection, Solo / Solitaire Game, Tags, Variable Player Powers",659
+"Betting and Bluffing, Bribery, Hand Management, Negotiation, Open Drafting, Role Playing, Set Collection",660
+"Action Points, Bias, Cooperative Game, Grid Movement, Hand Management, Map Reduction, Modular Board, Pick-up and Deliver, Solo / Solitaire Game, Square Grid, Tile Placement, Variable Player Powers",661
+"Action Points, Campaign / Battle Card Driven, Card Play Conflict Resolution, Cooperative Game, Hand Management, Line of Sight, Multi-Use Cards, Point to Point Movement, Solo / Solitaire Game, Variable Player Powers",662
+"Cooperative Game, Dice Rolling, Move Through Deck, Role Playing, Storytelling, Variable Player Powers",663
+"Action Queue, Area Majority / Influence, End Game Bonuses, Grid Movement, Hand Management, Hexagon Grid, Modular Board, Multi-Use Cards, Network and Route Building, Victory Points as a Resource",664
+"Action Queue, Area Majority / Influence, Deck, Bag, and Pool Building, Hand Management, Investment, Open Drafting, Roles with Asymmetric Information, Scenario / Mission / Campaign Game, Simultaneous Action Selection, Solo / Solitaire Game, Stock Holding, Turn Order: Claim Action, Variable Player Powers, Victory Points as a Resource, Worker Placement",665
+"Area Movement, Dice Rolling, Hand Management, Modular Board, Pick-up and Deliver, Role Playing, Scenario / Mission / Campaign Game, Team-Based Game, Variable Player Powers",666
+"Auction / Bidding, Network and Route Building",667
+"Dice Rolling, Grid Movement, Modular Board, Role Playing, Team-Based Game, Variable Player Powers",668
+"Dice Rolling, Grid Movement, Modular Board, Pick-up and Deliver",669
+"Dice Rolling, Grid Movement, Variable Player Powers",670
+"Command Cards, Cooperative Game, Dice Rolling, Grid Movement, Map Addition, Modular Board, Scenario / Mission / Campaign Game, Storytelling, Tech Trees / Tech Tracks",671
+"Hand Management, Hidden Victory Points, Open Drafting, Take That, Victory Points as a Resource",672
+"Chaining, Dice Rolling, Hexagon Grid, Income, Modular Board, Negotiation, Network and Route Building, Race, Random Production, Take That, Trading, Variable Set-up",673
+"Auction / Bidding, Auction: Sealed Bid, End Game Bonuses, Memory, Set Collection",674
+"Area Movement, Dice Rolling, Legacy Game, Open Drafting, Player Elimination, Variable Player Powers",675
+"Area Majority / Influence, End Game Bonuses, Modular Board, Moving Multiple Units, Set Collection",676
+"Catch the Leader, Hand Management, Legacy Game, Open Drafting, Scenario / Mission / Campaign Game, Solo / Solitaire Game, Worker Placement",677
+"Hand Management, Open Drafting, Set Collection, Tile Placement",678
+"Hand Management, Open Drafting, Race, Set Collection",679
+"Action Points, Action Retrieval, Grid Movement, Hand Management, Modular Board, Simultaneous Action Selection, Take That, Variable Player Powers",680
+"Cooperative Game, Deck Construction, Hand Management, Scenario / Mission / Campaign Game, Solo / Solitaire Game, Variable Player Powers, Variable Set-up",681
+"Bingo, Connections, Dice Rolling, Line Drawing, Network and Route Building, Paper-and-Pencil, Simultaneous Action Selection, Solo / Solitaire Game",682
+"Area Majority / Influence, Modular Board, Take That, Variable Player Powers, Worker Placement, Worker Placement, Different Worker Types",683
+"Campaign / Battle Card Driven, Dice Rolling, Hand Management, Modular Board",684
+"Cooperative Game, Dice Rolling, Grid Movement, Modular Board, Role Playing, Variable Player Powers",685
+"Connections, End Game Bonuses, Line Drawing, Network and Route Building, Paper-and-Pencil",686
+"Card Play Conflict Resolution, Communication Limits, Cooperative Game, Hand Management, Solo / Solitaire Game, Variable Set-up",687
+"Contracts, Events, Market, Move Through Deck, Open Drafting, Push Your Luck, Race, Set Collection",688
+"Action Points, Dice Rolling, Open Drafting, Set Collection, Variable Player Powers, Worker Placement",689
+"Action / Event, Action Points, Area Majority / Influence, Campaign / Battle Card Driven, Command Cards, Dice Rolling, Events, Hand Management, Point to Point Movement, Scenario / Mission / Campaign Game, Simulation, Solo / Solitaire Game, Stat Check Resolution, Sudden Death Ending, Tug of War, Variable Player Powers",690
+"Area Movement, Cooperative Game, Dice Rolling, Hand Management, Modular Board, Role Playing, Team-Based Game, Traitor Game, Variable Player Powers",691
+"Action Queue, Critical Hits and Failures, Dice Rolling, Line of Sight, Movement Template, Player Elimination, Simultaneous Action Selection, Variable Player Powers",692
+"Cooperative Game, Dice Rolling, Point to Point Movement, Role Playing, Variable Player Powers",693
+"Matching, Memory, Questions and Answers, Set Collection",694
+"Hand Management, Hexagon Grid, Highest-Lowest Scoring, Pattern Building, Team-Based Game, Tile Placement",695
+"Area Movement, Enclosure, Hexagon Grid, Modular Board, Open Drafting, Race, Tile Placement, Variable Player Powers",696
+"Area Movement, Hand Management, Hidden Roles, Team-Based Game, Traitor Game, Variable Player Powers",697
+"End Game Bonuses, Hand Management, Hexagon Grid, Income, Open Drafting, Set Collection, Solo / Solitaire Game, Take That, Tile Placement, Turn Order: Progressive, Variable Player Powers",698
+"Action Retrieval, Area Majority / Influence, Deck, Bag, and Pool Building, Dice Rolling, Hand Management, Tech Trees / Tech Tracks, Worker Placement with Dice Workers",699
+"Cooperative Game, Deck, Bag, and Pool Building, Dice Rolling, Grid Movement, Modular Board, Role Playing, Scenario / Mission / Campaign Game, Solo / Solitaire Game, Storytelling, Variable Player Powers",700
+"End Game Bonuses, Multi-Use Cards, Open Drafting, Set Collection, Tags, Tile Placement",701
+"Communication Limits, Cooperative Game, Scenario / Mission / Campaign Game, Trick-taking",702
+"Area Majority / Influence, Area Movement, Campaign / Battle Card Driven, Command Cards, Dice Rolling, Die Icon Resolution, Team-Based Game, Turn Order: Random, Variable Player Powers",703
+"Area Majority / Influence, Dice Rolling",704
+"Area Majority / Influence, Area Movement, Dice Rolling, King of the Hill, Variable Player Powers",705
+"Connections, Dice Rolling, Grid Coverage, Network and Route Building, Open Drafting, Paper-and-Pencil, Worker Placement with Dice Workers",706
+"Dice Rolling, Paper-and-Pencil, Solo / Solitaire Game",707
+"Grid Movement, Map Reduction",708
+"Contracts, Pattern Building, Race, Rondel, Tile Placement, Turn Order: Time Track",709
+"Hexagon Grid, Investment, Market, Network and Route Building, Ownership, Stock Holding, Tile Placement, Victory Points as a Resource",710
+"Hand Management, Set Collection, Worker Placement",711
+"Area Majority / Influence, Deck, Bag, and Pool Building, End Game Bonuses, Movement Points, Multi-Use Cards, Open Drafting",712
+"Cooperative Game, Pick-up and Deliver, Point to Point Movement, Push Your Luck, Solo / Solitaire Game, Variable Player Powers",713
+"Area Majority / Influence, Deck, Bag, and Pool Building, Dice Rolling, Hand Management, Network and Route Building, Open Drafting, Solo / Solitaire Game, Victory Points as a Resource",714
+"Hand Management, Player Elimination",715
+"Action Points, Area Movement, Deck, Bag, and Pool Building, Dice Rolling, Die Icon Resolution, Hexagon Grid, Role Playing, Roll / Spin and Move, Stat Check Resolution, Variable Player Powers, Variable Set-up",716
+"Betting and Bluffing, Dice Rolling, End Game Bonuses, Roll / Spin and Move, Track Movement, Variable Set-up",717
+"Communication Limits, Cooperative Game, Hand Management, Move Through Deck, Push Your Luck, Variable Player Powers",718
+"Action Queue, Bias, Grid Movement, Lose a Turn, Modular Board, Programmed Movement, Race, Scenario / Mission / Campaign Game, Simultaneous Action Selection",719
+"Area Majority / Influence, Dice Rolling, Events, Hand Management, Hidden Roles, Interrupts, Roles with Asymmetric Information, Sudden Death Ending, Take That",720
+"Closed Drafting, End Game Bonuses, Hand Management, Score-and-Reset Game, Set Collection, Simultaneous Action Selection",721
+"Auction / Bidding, Auction: Turn Order Until Pass, Hexagon Grid, Investment, Network and Route Building, Ownership, Stock Holding, Victory Points as a Resource",722
+Solo / Solitaire Game,723
+"Dice Rolling, Events, Real-Time, Relative Movement, Tile Placement, Track Movement",724
+"Dice Rolling, Hand Management, Hidden Victory Points, Race, Roll / Spin and Move, Simultaneous Action Selection, Take That, Track Movement, Turn Order: Progressive, Victory Points as a Resource",725
+"Investment, Network and Route Building, Open Drafting, Set Collection, Stock Holding",726
+"Dice Rolling, Open Drafting, Random Production, Variable Set-up",727
+"Action Queue, Action Retrieval, Area Majority / Influence, Area Movement, Dice Rolling, Hand Management, Point to Point Movement, Race, Variable Player Powers",728
+"Open Drafting, Set Collection, Variable Set-up",729
+"Cooperative Game, Deck Construction, Hand Management, Solo / Solitaire Game, Variable Player Powers, Variable Set-up",730
+"Open Drafting, Set Collection, Take That, Turn Order: Claim Action, Variable Set-up",731
+"Action Points, Hand Management, Victory Points as a Resource, Worker Placement",732
+"Bingo, Connections, Grid Movement, Network and Route Building, Simultaneous Action Selection, Tile Placement",733
+"Hand Management, Open Drafting",734
+"Action Points, Area Movement, Cooperative Game, Dice Rolling, Events, Scenario / Mission / Campaign Game, Variable Player Powers",735
+"Hand Management, Race, Score-and-Reset Game, Trick-taking, Turn Order: Stat-Based",736
+"Modular Board, Tile Placement",737
+"Automatic Resource Growth, Cooperative Game, Die Icon Resolution, Events, Hand Management, Melding and Splaying, Multi-Use Cards, Set Collection, Simulation, Simultaneous Action Selection, Solo / Solitaire Game, Tags, Tech Trees / Tech Tracks, Variable Player Powers, Variable Set-up",738
+"Deck, Bag, and Pool Building, Open Drafting, Tile Placement, Worker Placement",739
+"Area Majority / Influence, Auction / Bidding, Auction: Sealed Bid, Bribery, Commodity Speculation, Grid Movement, Hexagon Grid, Map Addition, Market, Modular Board, Semi-Cooperative Game, Take That, Tile Placement, Trading, Traitor Game, Worker Placement",740
+"Cooperative Game, Dice Rolling, Push Your Luck, Solo / Solitaire Game, Variable Player Powers, Worker Placement, Worker Placement, Different Worker Types",741
+"Hidden Roles, Role Playing, Roles with Asymmetric Information, Traitor Game, Variable Player Powers, Voting",742
+"Auction / Bidding, Income, Rondel, Tile Placement, Victory Points as a Resource",743
+"Dice Rolling, Hand Management, Race, Set Collection, Trading, Variable Player Powers, Worker Placement, Worker Placement with Dice Workers",744
+"Action Points, Area Movement, Cooperative Game, Team-Based Game, Traitor Game",745
+"Deck, Bag, and Pool Building, Solo / Solitaire Game",746
+"Cooperative Game, Elapsed Real Time Ending, Scenario / Mission / Campaign Game, Storytelling",747
+"Auction / Bidding, Dice Rolling, Grid Movement, Hexagon Grid, Income, Movement Points, Paper-and-Pencil, Secret Unit Deployment, Simulation, Solo / Solitaire Game, Tech Trees / Tech Tracks, Variable Set-up",748
+"Dice Rolling, Narrative Choice / Paragraph, Point to Point Movement, Role Playing, Solo / Solitaire Game, Storytelling, Variable Player Powers",749
+"Auction / Bidding, Auction: Turn Order Until Pass, Hand Management, Network and Route Building, Open Drafting, Set Collection",750
+"Area Majority / Influence, Area Movement, Card Play Conflict Resolution, Deck, Bag, and Pool Building, Modular Board, Order Counters, Variable Player Powers",751
+"Area Majority / Influence, Dice Rolling, Turn Order: Pass Order, Turn Order: Stat-Based, Worker Placement, Worker Placement with Dice Workers",752
+"Grid Coverage, Network and Route Building, Pick-up and Deliver, Team-Based Game, Tile Placement",753
+"Acting, Communication Limits, Memory, Team-Based Game",754
+"Area Majority / Influence, Enclosure, Map Addition, Pattern Building, Tile Placement",755
+"Closed Drafting, Dice Rolling, Set Collection, Simultaneous Action Selection",756
+"Deck, Bag, and Pool Building, Hand Management, Open Drafting, Solo / Solitaire Game, Take That",757
+"End Game Bonuses, Tile Placement, Worker Placement",758
+"Area Majority / Influence, Events, Hand Management, Open Drafting, Set Collection, Take That, Tile Placement",759
+"Deck, Bag, and Pool Building, Hand Management, Open Drafting",760
+"Action Points, Area Majority / Influence, Campaign / Battle Card Driven, Hand Management, Open Drafting",761
+"Area Movement, Follow, Hand Management, Pick-up and Deliver, Set Collection, Simultaneous Action Selection, Variable Phase Order",762
+"Action Points, Area Majority / Influence, End Game Bonuses, Grid Movement, Hexagon Grid, Mancala, Movement Points, Rondel, Tags, Tech Trees / Tech Tracks, Variable Player Powers, Worker Placement",763
+"Open Drafting, Variable Player Powers, Worker Placement, Worker Placement, Different Worker Types",764
+"Area Majority / Influence, Dice Rolling, Hand Management, Hexagon Grid, King of the Hill, Modular Board, Take That, Team-Based Game",765
+"Open Drafting, Set Collection, Worker Placement",766
+"End Game Bonuses, Pattern Building, Set Collection, Tile Placement, Turn Order: Claim Action",767
+"Variable Player Powers, Worker Placement",768
+"Cooperative Game, Critical Hits and Failures, Dice Rolling, Grid Movement, Line of Sight, Modular Board, Narrative Choice / Paragraph, Role Playing, Scenario / Mission / Campaign Game, Solo / Solitaire Game, Storytelling, Tech Trees / Tech Tracks",769
+"Enclosure, Market, Open Drafting, Pattern Building, Tile Placement, Turn Order: Claim Action",770
+"Action Points, Card Play Conflict Resolution, Hand Management, Line of Sight, Point to Point Movement, Take That, Variable Player Powers",771
+"Cooperative Game, Deck, Bag, and Pool Building, Dice Rolling, Hand Management, Move Through Deck, Role Playing, Scenario / Mission / Campaign Game, Solo / Solitaire Game, Variable Player Powers",772
+"Action Points, Dice Rolling, Events, Modular Board, Player Elimination, Point to Point Movement, Simulation, Trading, Variable Player Powers",773
+"Auction / Bidding, Dice Rolling, Roll / Spin and Move, Set Collection, Trading",774
+"Hand Management, Score-and-Reset Game, Simultaneous Action Selection",775
+"Action Points, Finale Ending, Hand Management, Income, Market, Open Drafting, Simulation, Take That, Variable Player Powers",776
+"Dice Rolling, Re-rolling and Locking, Take That, Team-Based Game, Variable Player Powers",777
+"Area Majority / Influence, Worker Placement",778
+"Action Points, Area Majority / Influence, Dice Rolling, Variable Player Powers",779
+"Events, Hand Management, Narrative Choice / Paragraph, Storytelling, Worker Placement, Worker Placement, Different Worker Types",780
+"Cooperative Game, Storytelling",781
+"Auction: Dutch, Contracts, Dice Rolling, End Game Bonuses, Events, Hand Management, Open Drafting, Ownership, Push Your Luck, Set Collection, Solo / Solitaire Game, Tags, Turn Order: Progressive, Worker Placement, Worker Placement with Dice Workers",782
+"Chaining, Hand Management, Multi-Use Cards, Solo / Solitaire Game, Tech Trees / Tech Tracks, Track Movement, Variable Set-up",783
+"Area Majority / Influence, Area Movement, Campaign / Battle Card Driven, Dice Rolling, Hand Management, Movement Points, Secret Unit Deployment",784
+"Area Majority / Influence, Map Addition, Tile Placement",785
+"Communication Limits, Cooperative Game, Deduction, Memory, Once-Per-Game Abilities, Real-Time, Scenario / Mission / Campaign Game, Sudden Death Ending",786
+"Bias, End Game Bonuses, Open Drafting, Worker Placement",787
+"Deduction, Grid Movement, Hand Management, Hexagon Grid, Modular Board, Push Your Luck",788
+"Grid Movement, Line Drawing, Modular Board, Network and Route Building, Pick-up and Deliver",789
+"Cooperative Game, Pattern Building, Push Your Luck, Real-Time, Solo / Solitaire Game, Variable Player Powers",790
+"Cooperative Game, Dice Rolling, Elapsed Real Time Ending, Grid Movement, Line of Sight, Real-Time, Scenario / Mission / Campaign Game, Variable Player Powers",791
+"Area Movement, Cooperative Game, Dice Rolling, Hand Management, Modular Board, Role Playing, Team-Based Game, Variable Player Powers",792
+"Area Majority / Influence, Area Movement, End Game Bonuses, Income, Modular Board, Once-Per-Game Abilities, Open Drafting, Tech Trees / Tech Tracks, Tile Placement, Turn Order: Pass Order, Variable Set-up",793
+"Action Points, Set Collection, Tile Placement, Worker Placement",794
+"Hidden Roles, Memory, Player Elimination, Take That, Variable Player Powers",795
+"Campaign / Battle Card Driven, Card Play Conflict Resolution, Hand Management, Team-Based Game",796
+"Dice Rolling, Die Icon Resolution, Grid Movement, Modular Board, Role Playing, Roll / Spin and Move, Scenario / Mission / Campaign Game, Square Grid, Team-Based Game, Variable Player Powers",797
+"Income, Layering, Tile Placement, Turn Order: Claim Action, Worker Placement, Worker Placement, Different Worker Types",798
+"Hand Management, Player Elimination, Point to Point Movement, Simultaneous Action Selection, Solo / Solitaire Game, Team-Based Game, Variable Player Powers",799
+"Cooperative Game, Deck, Bag, and Pool Building, Delayed Purchase, Market, Open Drafting, Spelling",800
+"Cooperative Game, Dice Rolling, Die Icon Resolution, Hexagon Grid, Modular Board, Role Playing, Scenario / Mission / Campaign Game, Tech Trees / Tech Tracks, Variable Player Powers, Variable Set-up",801
+"Area Movement, Hand Management, Modular Board, Open Drafting, Solo / Solitaire Game, Tile Placement, Worker Placement",802
+"Area Majority / Influence, Area Movement, Dice Rolling, Solo / Solitaire Game, Variable Player Powers",803
+"Auction / Bidding, Auction: Once Around, Income, Push Your Luck, Set Collection, Victory Points as a Resource",804
+"Bingo, Contracts, End Game Bonuses, Grid Coverage, Paper-and-Pencil, Set Collection",805
+"Hand Management, Worker Placement",806
+"Cooperative Game, Dice Rolling, Modular Board, Player Elimination, Role Playing, Variable Player Powers",807
+"Open Drafting, Push Your Luck, Set Collection, Take That, Turn Order: Pass Order",808
+"Alliances, Area Majority / Influence, Area Movement, Auction / Bidding, Dice Rolling",809
+"Commodity Speculation, Loans, Turn Order: Role Order, Variable Player Powers",810
+"Cooperative Game, Variable Player Powers",811
+"Closed Drafting, Hand Management, Set Collection, Simultaneous Action Selection, Team-Based Game, Tech Trees / Tech Tracks, Variable Player Powers",812
+"Cooperative Game, Deck, Bag, and Pool Building, Modular Board, Role Playing, Solo / Solitaire Game, Variable Player Powers",813
+"Area Majority / Influence, Auction / Bidding, Dice Rolling, Open Drafting, Variable Player Powers",814
+"Dice Rolling, Paper-and-Pencil, Rondel, Solo / Solitaire Game",815
+"Order Counters, Push Your Luck, Secret Unit Deployment, Set Collection, Turn Order: Time Track, Worker Placement",816
+"Hidden Movement, Memory, Point to Point Movement, Secret Unit Deployment, Team-Based Game",817
+"Cooperative Game, Dice Rolling, Modular Board, Scenario / Mission / Campaign Game, Variable Player Powers",818
+"Point to Point Movement, Set Collection, Solo / Solitaire Game",819
+"Point to Point Movement, Set Collection, Turn Order: Time Track",820
+"Area Majority / Influence, Area Movement, Dice Rolling, Hand Management",821
+"Area Majority / Influence, Dice Rolling, Tile Placement, Variable Player Powers, Worker Placement",822
+"Action Points, Cooperative Game, Dice Rolling, Grid Movement, Hand Management, Modular Board, Player Elimination, Scenario / Mission / Campaign Game, Trading, Variable Player Powers",823
+"Area Movement, Auction / Bidding, Events, Hand Management, Memory, Order Counters, Player Elimination, Simultaneous Action Selection, Variable Player Powers",824
+"Area Majority / Influence, Closed Drafting, Pattern Building",825
+"Auction / Bidding, Deck, Bag, and Pool Building, Hand Management, Negotiation, Network and Route Building, Pick-up and Deliver, Point to Point Movement, Resource to Move, Simulation, Variable Player Powers",826
+"Action Points, Hand Management, Push Your Luck, Simulation, Simultaneous Action Selection, Take That, Turn Order: Progressive",827
+"Action Drafting, Income, Set Collection, Variable Player Powers, Variable Set-up, Worker Placement",828
+"Action Queue, Network and Route Building, Variable Player Powers, Worker Placement",829
+"Area Movement, Campaign / Battle Card Driven, Cooperative Game, Dice Rolling, Hand Management, Modular Board, Solo / Solitaire Game, Variable Player Powers",830
+"Action Queue, Area Majority / Influence, End Game Bonuses, Hand Management, Open Drafting, Set Collection, Tags, Variable Player Powers, Variable Set-up",831
+"Closed Drafting, Contracts, End Game Bonuses, Hand Management, Highest-Lowest Scoring, Multi-Use Cards, Neighbor Scope, Turn Order: Stat-Based, Variable Player Powers",832
+"Area Majority / Influence, Hand Management, Hexagon Grid, Hidden Victory Points, Highest-Lowest Scoring, Open Drafting, Set Collection, Tile Placement",833
+"Drawing, Line Drawing, Paper-and-Pencil",834
+"Area Movement, Area-Impulse, Campaign / Battle Card Driven, Dice Rolling, Hand Management, Secret Unit Deployment, Simulation, Simultaneous Action Selection",835
+"Hidden Roles, Line Drawing, Targeted Clues",836
+"Dice Rolling, Different Dice Movement, Grid Movement, Movement Points, Player Elimination, Push Your Luck, Race, Roll / Spin and Move, Simulation, Turn Order: Stat-Based",837
+"Action Points, Area Movement, Dice Rolling, Player Elimination, Team-Based Game, Variable Phase Order, Variable Player Powers",838
+"Events, Grid Movement, Hand Management, Move Through Deck, Square Grid, Take That, Tile Placement",839
+"Area Majority / Influence, Dice Rolling, Grid Movement, Modular Board, Square Grid",840
+"Dice Rolling, Map Addition, Modular Board, Player Elimination, Role Playing, Storytelling, Team-Based Game, Traitor Game, Variable Player Powers",841
+"Area Majority / Influence, Closed Drafting, Hand Management, King of the Hill, Multi-Use Cards, Point to Point Movement, Trick-taking, Turn Order: Stat-Based, Variable Phase Order, Victory Points as a Resource",842
+"Alliances, Hand Management, Open Drafting, Race, Simultaneous Action Selection, Take That, Turn Order: Stat-Based, Variable Player Powers",843
+"Deck, Bag, and Pool Building, Push Your Luck, Race, Simultaneous Action Selection, Tile Placement",844
+"Action Points, Cooperative Game, Die Icon Resolution, Hand Management, Point to Point Movement, Set Collection, Solo / Solitaire Game, Variable Player Powers",845
+"Dice Rolling, Hand Management, Variable Player Powers",846
+"Highest-Lowest Scoring, Neighbor Scope, Open Drafting, Set Collection, Simultaneous Action Selection, Team-Based Game, Tile Placement, Variable Set-up",847
+"Deck Construction, Hand Management, Income, Take That",848
+"Area Movement, Dice Rolling, Set Collection, Trading, Variable Player Powers",849
+"Area Majority / Influence, Grid Movement, Map Addition, Open Drafting, Tile Placement, Variable Phase Order, Variable Player Powers, Worker Placement",850
+"Hand Management, Race, Score-and-Reset Game, Turn Order: Progressive",851
+"Chaining, Layering, Pattern Building, Race, Static Capture, Sudden Death Ending, Team-Based Game, Tile Placement",852
+"Area Majority / Influence, Hand Management, Map Addition, Tile Placement",853
+"Grid Movement, Hand Management, Modular Board, Rock-Paper-Scissors, Simultaneous Action Selection, Trading, Variable Player Powers",854
+"Action Points, Area Majority / Influence, Bias, End Game Bonuses, Hexagon Grid, Income, Turn Order: Progressive",855
+"Action Points, Dice Rolling, Grid Movement, Modular Board, Network and Route Building, Pattern Building, Set Collection, Tile Placement",856
+"Area Majority / Influence, Chaining, Enclosure, Grid Movement, Hexagon Grid, Modular Board, Network and Route Building, Pattern Building, Tile Placement, Variable Set-up",857
+"Hand Management, Take That, Variable Player Powers",858
+"Critical Hits and Failures, Dice Rolling, Grid Movement, Movement Points, Variable Player Powers",859
+"Dice Rolling, Open Drafting, Pattern Building, Set Collection",860
+"Communication Limits, Cooperative Game, Elapsed Real Time Ending, Grid Movement, Map Addition, Modular Board, Real-Time, Scenario / Mission / Campaign Game, Solo / Solitaire Game, Variable Player Powers",861
+"Area Movement, Card Play Conflict Resolution, Hand Management, Memory, Secret Unit Deployment, Simultaneous Action Selection, Variable Player Powers",862
+"Cooperative Game, Dice Rolling, Die Icon Resolution, Modular Board, Re-rolling and Locking, Solo / Solitaire Game, Variable Player Powers",863
+"Deck, Bag, and Pool Building, Delayed Purchase, Dice Rolling, End Game Bonuses, Movement Points, Open Drafting, Pick-up and Deliver, Player Elimination, Point to Point Movement, Push Your Luck, Variable Set-up",864
+"Increase Value of Unchosen Resources, Open Drafting, Pattern Building, Set Collection, Solo / Solitaire Game, Tile Placement, Variable Set-up",865
+"Campaign / Battle Card Driven, Card Play Conflict Resolution, Cooperative Game, Deck, Bag, and Pool Building, Hand Management, Modular Board, Narrative Choice / Paragraph, Scenario / Mission / Campaign Game, Storytelling, Variable Player Powers",866
+"Cooperative Game, Scenario / Mission / Campaign Game, Storytelling",867
+"Area Majority / Influence, Hexagon Grid, Increase Value of Unchosen Resources, Modular Board, Race, Variable Player Powers",868
+"Auction: Turn Order Until Pass, Contracts, Modular Board, Ownership, Rondel, Set Collection, Solo / Solitaire Game, Square Grid, Track Movement, Turn Order: Auction, Variable Set-up",869
+"Grid Movement, Hexagon Grid, Open Drafting, Variable Player Powers",870
+"Bingo, Connections, Crayon Rail System, Hexagon Grid, Line Drawing, Move Through Deck, Network and Route Building, Paper-and-Pencil, Solo / Solitaire Game, Variable Set-up",871
+"Area Majority / Influence, End Game Bonuses, Variable Set-up, Voting, Worker Placement, Worker Placement, Different Worker Types",872
+"Deck, Bag, and Pool Building, Hand Management, Network and Route Building",873
+"Deck, Bag, and Pool Building, Follow, Hand Management, Race, Turn Order: Progressive",874
+"Auction / Bidding, Hexagon Grid, Market, Network and Route Building, Ownership, Stock Holding, Tile Placement, Victory Points as a Resource",875
+"Area Majority / Influence, Area Movement, Open Drafting, Set Collection, Simultaneous Action Selection, Take That, Variable Phase Order, Variable Player Powers",876
+"Dice Rolling, Paper-and-Pencil, Variable Player Powers",877
+"Acting, Cooperative Game, Hand Management, Pattern Recognition",878
+"Action Queue, Area Majority / Influence, Hand Management, Simultaneous Action Selection",879
+"Dice Rolling, Increase Value of Unchosen Resources, Multi-Use Cards, Pieces as Map, Race, Stock Holding",880
+"Cooperative Game, Grid Movement, Hand Management, Modular Board, Solo / Solitaire Game",881
+"Auction: Once Around, Bribery, Critical Hits and Failures, Dice Rolling, Events, Hand Management, Income, Negotiation, Ownership, Semi-Cooperative Game, Simulation, Solo / Solitaire Game, Voting",882
+"Auction / Bidding, Campaign / Battle Card Driven, Dice Rolling, Negotiation, Tug of War",883
+"Dice Rolling, Push Your Luck, Race",884
+"Action Drafting, Area Majority / Influence, Automatic Resource Growth, Contracts, Dice Rolling, Hand Management, Income, Market, Multi-Use Cards, Open Drafting, Turn Order: Stat-Based, Variable Player Powers, Variable Set-up, Victory Points as a Resource",885
+"Action Points, Cooperative Game, Dice Rolling, Grid Movement, Map Addition, Modular Board, Point to Point Movement, Push Your Luck, Tile Placement, Variable Player Powers",886
+"Action Points, Auction: Dutch, Increase Value of Unchosen Resources, Market, Open Drafting, Simulation",887
+"Events, Hand Management, Open Drafting, Turn Order: Claim Action, Worker Placement",888
+"Action Points, Auction / Bidding, Open Drafting, Solo / Solitaire Game",889
+"Action Queue, Critical Hits and Failures, Dice Rolling, Line of Sight, Movement Template, Variable Player Powers",890
+"Cooperative Game, Dice Rolling, Take That, Team-Based Game, Variable Player Powers",891
+"Action Points, Dice Rolling, Grid Movement, Hand Management, Take That, Variable Player Powers",892
+"Cooperative Game, Dice Rolling, Elapsed Real Time Ending, Grid Movement, Modular Board, Physical Removal, Push Your Luck, Re-rolling and Locking, Real-Time, Roll / Spin and Move, Solo / Solitaire Game, Tile Placement",893
+"Action Points, Dice Rolling, Grid Movement, Modular Board, Pick-up and Deliver, Push Your Luck, Race, Variable Player Powers",894
+"Connections, Hand Management, Network and Route Building, Open Drafting, Set Collection",895
+"Action Retrieval, Cooperative Game, Hexagon Grid, Network and Route Building, Semi-Cooperative Game, Solo / Solitaire Game, Sudden Death Ending, Turn Order: Time Track",896
+"Tile Placement, Variable Player Powers, Worker Placement",897
+"Action Points, Area Majority / Influence, Enclosure, Grid Movement, Hand Management, Square Grid, Three Dimensional Movement, Tile Placement",898
+"Contracts, Dice Rolling, End Game Bonuses, Grid Coverage, Movement Points, Open Drafting, Set Collection, Solo / Solitaire Game, Square Grid, Tile Placement, Track Movement, Turn Order: Stat-Based, Variable Player Powers, Worker Placement with Dice Workers",899
+"Cooperative Game, Deduction, Ordering, Player Judge, Targeted Clues",900
+"Neighbor Scope, Open Drafting, Set Collection, Variable Player Powers",901
+"Area Majority / Influence, Hand Management, Open Drafting, Ownership, Worker Placement, Worker Placement, Different Worker Types",902
+"Area Majority / Influence, Chaining, Hand Management, Hexagon Grid, Network and Route Building, Take That, Tile Placement",903
+"Auction / Bidding, Hand Management, Market, Variable Phase Order, Voting",904
+"Deduction, Hand Management, Line Drawing, Measurement Movement, Secret Unit Deployment, Storytelling, Team-Based Game, Variable Player Powers",905
+"Action Points, Area Majority / Influence, Enclosure, Grid Movement, Square Grid, Tile Placement",906
+"End Game Bonuses, Hand Management, Income, Move Through Deck, Multi-Use Cards, Open Drafting, Ownership, Simulation, Solo / Solitaire Game",907
+"End Game Bonuses, Open Drafting, Pattern Building, Tile Placement, Turn Order: Claim Action",908
+"Dice Rolling, Hand Management, Hexagon Grid, Solo / Solitaire Game, Tech Trees / Tech Tracks, Tile Placement, Variable Player Powers",909
+"Cooperative Game, Hexagon Grid, Secret Unit Deployment, Simulation, Solo / Solitaire Game",910
+"Action Queue, Contracts, Hand Management, Multi-Use Cards, Push Your Luck, Set Collection, Turn Order: Progressive, Variable Set-up",911
+"End Game Bonuses, Set Collection, Solo / Solitaire Game, Track Movement, Turn Order: Time Track, Variable Player Powers, Worker Placement",912
+"Area Majority / Influence, Bias, Chaining, Contracts, End Game Bonuses, Rondel, Simultaneous Action Selection, Worker Placement",913
+"Closed Drafting, Deck Construction, Dice Rolling, Die Icon Resolution, Hand Management, Interrupts, Variable Player Powers",914
+"Action Drafting, Contracts, Increase Value of Unchosen Resources, Modular Board, Network and Route Building",915
+"Auction / Bidding, Auction: Once Around, Closed Economy Auction, Investment, Square Grid, Take That, Turn Order: Progressive",916
+"Communication Limits, Cooperative Game, Deduction, Hand Management, Pattern Building",917
+"Deck, Bag, and Pool Building, End Game Bonuses, Hexagon Grid, Pattern Building, Set Collection, Solo / Solitaire Game, Tile Placement, Variable Set-up",918
+"Cooperative Game, Hand Management, Move Through Deck, Open Drafting, Set Collection, Solo / Solitaire Game",919
+"Hand Management, Open Drafting, Variable Player Powers, Victory Points as a Resource",920
+"Action Queue, Cooperative Game, Dice Rolling, Hand Management, Move Through Deck, Solo / Solitaire Game, Variable Player Powers",921
+"Area Majority / Influence, Modular Board, Point to Point Movement, Solo / Solitaire Game, Tile Placement, Worker Placement",922
+"Area Majority / Influence, Chit-Pull System, Simulation, Solo / Solitaire Game",923
+"Action Retrieval, Contracts, Set Collection, Variable Set-up, Worker Placement",924
+"Area Majority / Influence, End Game Bonuses, Tile Placement",925
+"Commodity Speculation, Events, Income, Investment, Loans, Market, Simulation, Stock Holding, Turn Order: Stat-Based, Variable Phase Order, Variable Set-up, Worker Placement",926
+"Solo / Solitaire Game, Worker Placement",927
