@@ -53,13 +53,13 @@ player20 text,
 dsc text,
 exp text,
 basegame int,
-basegameName text
-reimplementName text
-reimplemented text
+basegameName text,
+reimplementName text,
+reimplemented text,
 reimplementedName text,
 contains text,
 containsName text,
-iscontained text
+iscontained text,
 integration text,
 integrationName text,
 accessories text,

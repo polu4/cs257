@@ -67,5 +67,3 @@ for i in range(len(headers))[:25]:
         writer = csv.writer(g)
         writer.writerows(idsToNames)
     
-
-
