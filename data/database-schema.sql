@@ -100,3 +100,22 @@ artists text,
 id int NOT NULL
 );
 
+CREATE TABLE maxplayers(
+maxplayers text,
+id int NOT NULL
+);
+
+CREATE TABLE maxplaytime(
+maxplaytime text,
+id int NOT NULL
+);
+
+CREATE TABLE minplayers(
+minplayers text,
+id int NOT NULL
+);
+
+CREATE TABLE minplaytime(
+minplaytime text,
+id int NOT NULL
+);
