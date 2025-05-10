@@ -21,41 +21,30 @@ def get_connection():
         exit()
 
 def queryGames(header,searchTerm):
-    ''' Returns a list of all authors in the database whose surnames are equal
-        to the specified search string. Each author is represented by a dictionary
-        with keys "given_name" and "surname".
-
-        This function introduces an important security issue. Suppose you
-        have information provided by your user (e.g. a search string)
-        that needs to become part of your SQL query. Since you can't trust
-        users not to be malicious, nor can you trust them not to do weird and
-        accidentally destructive things, you need to be very careful about
-        how you use any input they provide. To avoid the very common and
-        very dangerous security attack known as "SQL Injection", we will use
-        the parameterized version of cursor.execute whenever we're using
-        user-generated data. See below for how that goes. '''
+    
     out = []
     try:
-        query = '''SELECT name
-                   FROM names
-                   WHERE %(header)s = %(searchTerm)s AND 
-                   
-                   '''
+        valid_headers = ['artist', 'designer', 'minplayers'] 
+        if header not in valid_headers:
+            raise ValueError("Invalid header")
+        query = f'''
+            SELECT * 
+            FROM name, {header}, {header}_to_name
+            WHERE {header}.{header} LIKE %s
+            AND {header}.id = {header}_to_name.{header}_to_nameId
+            AND name.id = {header}_to_name.nameid;
+        '''
         connection = get_connection()
         cursor = connection.cursor()
-        idsT2 = str(header)
-        idsT3 = 'names'
-        linkedIds = idsT2 + '_to_name'
-        cursor.execute(query, (search_text,))
+        cursor.execute(query, (f'%{searchTerm}%',)) 
         for row in cursor:
-            authors.append({'given_name':row[0], 'surname':row[1]})
-
+            out.append([row[0],row[2]])
+        connection.close()
     except Exception as e:
         print(e, file=sys.stderr)
+    
+    return out
 
-    connection.close()
-    return authors
-
-@app.route('')\
+@app.route('/games')
 def funt():
     return

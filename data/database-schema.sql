@@ -1,4 +1,4 @@
-CREATE TABLE games(
+CREATE TABLE game(
 id int,
 name text,
 designer text,
@@ -87,32 +87,32 @@ tags_user text
 \copy games FROM 'games.csv' DELIMITER ',' CSV NULL AS 'NULL'
 
 
-CREATE TABLE names(
+CREATE TABLE name(
 name text,
 id int NOT NULL
 );
-\copy names FROM 'name.csv' DELIMITER ',' CSV NULL AS 'NULL'
+\copy name FROM 'name.csv' DELIMITER ',' CSV NULL AS 'NULL'
 
-CREATE TABLE designers(
-designers text,
+CREATE TABLE designer(
+designer text,
 id int NOT NULL
 );
-\copy designers FROM 'designer.csv' DELIMITER ',' CSV NULL AS 'NULL'
+\copy designer FROM 'designer.csv' DELIMITER ',' CSV NULL AS 'NULL'
 
-CREATE TABLE designers_to_name(
-designersId int,
+CREATE TABLE designer_to_name(
+designer_to_nameId int,
 nameId int);
 
-\copy designers_to_name FROM 'designer_to_name.csv' DELIMITER ',' CSV NULL AS 'NULL'
+\copy designer_to_name FROM 'designer_to_name.csv' DELIMITER ',' CSV NULL AS 'NULL'
 
-CREATE TABLE artists(
-artists text,
+CREATE TABLE artist(
+artist text,
 id int NOT NULL
 );
-\copy artists FROM 'artist.csv' DELIMITER ',' CSV NULL AS 'NULL'
+\copy artist FROM 'artist.csv' DELIMITER ',' CSV NULL AS 'NULL'
 
 CREATE TABLE artist_to_name(
-artistsId int,
+artist_to_nameId int,
 nameId int);
 \copy artist_to_name FROM 'artist_to_name.csv' DELIMITER ',' CSV NULL AS 'NULL'
 
@@ -123,7 +123,7 @@ id int NOT NULL
 \copy maxplayers FROM 'maxplayers.csv' DELIMITER ',' CSV NULL AS 'NULL'
 
 CREATE TABLE maxplayers_to_name(
-maxplayersId int,
+maxplayers_to_nameId int,
 nameId int);
 \copy maxplayers_to_name FROM 'maxplayers_to_name.csv' DELIMITER ',' CSV NULL AS 'NULL'
 
@@ -135,7 +135,7 @@ id int NOT NULL
 \copy maxplaytime FROM 'maxplaytime.csv' DELIMITER ',' CSV NULL AS 'NULL'
 
 CREATE TABLE maxplaytime_to_name(
-maxplayetimeId int,
+maxplayetime_ti_nameId int,
 nameId int);
 \copy maxplaytime_to_name FROM 'maxplaytime_to_name.csv' DELIMITER ',' CSV NULL AS 'NULL'
 
@@ -146,7 +146,7 @@ id int NOT NULL
 \copy minplayers FROM 'minplayers.csv' DELIMITER ',' CSV NULL AS 'NULL'
 
 CREATE TABLE minplayers_to_name(
-minplayers_to_name int,
+minplayers_to_nameId int,
 nameId int);
 \copy minplayers_to_name FROM 'minplayers_to_name.csv' DELIMITER ',' CSV NULL AS 'NULL'
 
@@ -157,6 +157,6 @@ id int NOT NULL
 \copy minplaytime FROM 'minplaytime.csv' DELIMITER ',' CSV NULL AS 'NULL'
 
 CREATE TABLE minplaytime_to_name(
-minplaytime_to_name int,
+minplaytime_to_nameId int,
 nameId int);
 \copy minplaytime_to_name FROM 'minplaytime_to_name.csv' DELIMITER ',' CSV NULL AS 'NULL'
