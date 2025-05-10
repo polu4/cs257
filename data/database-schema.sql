@@ -84,38 +84,47 @@ user_GL text,
 tags text,
 tags_user text
 );
+\copy games FROM 'games.csv' DELIMITER ',' CSV NULL AS 'NULL'
+
 
 CREATE TABLE names(
 name text,
 id int NOT NULL
 );
+\copy names FROM 'name.csv' DELIMITER ',' CSV NULL AS 'NULL'
 
 CREATE TABLE designers(
 designers text,
 id int NOT NULL
 );
+\copy designers FROM 'designer.csv' DELIMITER ',' CSV NULL AS 'NULL'
 
 CREATE TABLE artists(
 artists text,
 id int NOT NULL
 );
+\copy artists FROM 'artist.csv' DELIMITER ',' CSV NULL AS 'NULL'
 
 CREATE TABLE maxplayers(
 maxplayers text,
 id int NOT NULL
 );
+\copy maxplayers FROM 'maxplayers.csv' DELIMITER ',' CSV NULL AS 'NULL'
 
 CREATE TABLE maxplaytime(
 maxplaytime text,
 id int NOT NULL
 );
+\copy maxplaytime FROM 'maxplaytime.csv' DELIMITER ',' CSV NULL AS 'NULL'
 
 CREATE TABLE minplayers(
 minplayers text,
 id int NOT NULL
 );
+\copy minplayers FROM 'minplayers.csv' DELIMITER ',' CSV NULL AS 'NULL'
 
 CREATE TABLE minplaytime(
 minplaytime text,
 id int NOT NULL
 );
+\copy minplaytime FROM 'minplaytime.csv' DELIMITER ',' CSV NULL AS 'NULL'
