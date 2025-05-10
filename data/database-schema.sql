@@ -84,7 +84,7 @@ user_GL text,
 tags text,
 tags_user text
 );
-\copy games FROM 'games.csv' DELIMITER ',' CSV NULL AS 'NULL'
+\copy game FROM 'games.csv' DELIMITER ',' CSV NULL AS 'NULL'
 
 
 CREATE TABLE name(
