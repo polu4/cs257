@@ -45,6 +45,17 @@ def queryGames(header,searchTerm):
     
     return out
 
-@app.route('/games')
-def funt():
-    return
+@app.route('/games/<paramater>/<searchTerm>')
+def funt(paramater,searchTerm):
+    return queryGames(paramater,searchTerm)
+
+@app.route('/')
+def homepage():
+    return 'This is the homepage, \n neat right? \n try running "//games//artist//A" to get all games whose name starts with A'
+
+if __name__ == '__main__':
+    parser = ap.ArgumentParser('A sample Flask application/API')
+    parser.add_argument('host', help='the host on which this application is running')
+    parser.add_argument('port', type=int, help='the port on which this application is listening')
+    arguments = parser.parse_args()
+    app.run(host=arguments.host, port=arguments.port, debug=True)
