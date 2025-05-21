@@ -1,4 +1,4 @@
-# CS257 Board Games Project
+# Web Board Games Project
 
 ## Project Description
 
