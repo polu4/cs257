@@ -4,7 +4,7 @@
 
 This repository contains a comprehensive board games analysis project . The project explores a dataset of board games, providing insights into trends, ratings, and characteristics of various games through an interactive web interface.
 
-## 🚀 Setup & Installation
+## Setup & Installation
 
 ```bash
 # Clone the repository
@@ -32,7 +32,7 @@ git push -f origin main
 - **Database**: SQLite
 - **Version Control**: Git
 
-## 📊 Data Sources
+##  Data Sources
 
 The project uses board game data from BoardGameGeek API, including ratings, categories, mechanics, and publication years.
 
