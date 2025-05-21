@@ -1,3 +1,3 @@
 cs257
 =====
-repo for the class cs257 s25
+the place where I lollygag in my freetime
