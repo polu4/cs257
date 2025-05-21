@@ -25,13 +25,6 @@ git remote add origin https://github.com/polu4/cs257.git
 git push -f origin main
 ```
 
-## 🎓 Course Information
-
-- **Course**: CS257 - Software Design
-- **Institution**: Carleton College
-- **Term**: Spring 2025
-- **Instructor**: Jeff Ondich
-
 ## 🔧 Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript
@@ -42,11 +35,5 @@ git push -f origin main
 ## 📊 Data Sources
 
 The project uses board game data from BoardGameGeek API, including ratings, categories, mechanics, and publication years.
-
-## 👥 Contributors
-
-- Luke Poley
-
----
 
 *This project was created as part of the CS257 Software Design course at Carleton College.*
