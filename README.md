@@ -1,8 +1,8 @@
-# 🎲 CS257 Board Games Project 🎮
+# CS257 Board Games Project
 
-## 📋 Project Description
+## Project Description
 
-This repository contains a comprehensive board games analysis project for CS257: Software Design. The project explores a dataset of board games, providing insights into trends, ratings, and characteristics of various games through an interactive web interface.
+This repository contains a comprehensive board games analysis project . The project explores a dataset of board games, providing insights into trends, ratings, and characteristics of various games through an interactive web interface.
 
 ## 🚀 Setup & Installation
 
@@ -25,7 +25,7 @@ git remote add origin https://github.com/polu4/cs257.git
 git push -f origin main
 ```
 
-## 🔧 Technologies Used
+## Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Python, Flask
