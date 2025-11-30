@@ -3,7 +3,7 @@
 
 # Overview
 
-This repository contains the source for the project website used in the CS 257 course. The site demonstrates the project's features and provides an interface for users to explore and test functionality. Authors: Luke Poleyy, Thomas Lund. Course: CS 257 taught by Jeff Ondich at Carleton College.
+This repository contains the source code for my full stack website that shows data for thousands of board games. The files include everything to the initial wireframes to the javascript that made all the features work. Authors: Luke Poleyy, Thomas Lund. Course: CS 257 taught by Jeff Ondich at Carleton College.
 
 # Features
 
@@ -104,3 +104,4 @@ Troubleshooting
 Notes
 - The repository includes both `database-schema.sql` (with COPYs expecting CSVs in the same folder) and `database-dump.sql` (full dump). Use whichever fits your setup.
 - If you prefer Docker, start a postgres container and run the same psql import commands against it (use `docker run` or `docker exec`).
+
