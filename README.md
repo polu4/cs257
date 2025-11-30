@@ -1,4 +1,17 @@
-# BoardGameDB — Local Setup Guide
+
+![Project Logo](webapp/static/logo.png)
+
+# Overview
+
+This repository contains the source for the project website used in the CS 257 course. The site demonstrates the project's features and provides an interface for users to explore and test functionality. Authors: Luke Poleyy, Thomas Lund. Course: CS 257 taught by Jeff Ondich at Carleton College.
+
+# Features
+
+- Web UI for browsing and interacting with project data
+- REST API endpoints for programmatic access
+- Static assets (HTML, JS, CSS) are located under webapp/static
+
+# Local Setup Guide
 
 This guide explains how to get the website running locally after downloading the repository.
 
